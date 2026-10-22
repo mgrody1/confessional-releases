@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.5.0</title>
+            <pubDate>Thu, 22 Oct 2026 19:52:39 -0400</pubDate>
+            <sparkle:version>202610221952</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Chat with your meetings: a Chat window for all your meetings and a Chat tab in each one, with follow-ups and clickable sources</li><li>Any AI provider: OpenAI, Google Gemini, DeepSeek, Z.ai (GLM), xAI (Grok), Mistral, Groq, OpenRouter, or any OpenAI-compatible service</li><li>Summaries and chat can each use a different model; private meetings still only use your private model</li><li>A redesigned Settings window with a sidebar and search</li><li>Settings → Calendar has a shortcut for adding your Google account (Internet Accounts)</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.5.0/Confessional-1.5.0.zip" sparkle:edSignature="D4erQVhwL0ym0DewV4gNXaKzJg3yigwDmxcf0GVPcjjCqPx1G5CAIkAlCgl2Fg15kkiwDaCpC0h1SrXtwpRFCQ==" length="5209936" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.4.0</title>
             <pubDate>Thu, 22 Oct 2026 19:15:51 -0400</pubDate>
             <sparkle:version>202610221915</sparkle:version>
