@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.11.0</title>
+            <pubDate>Thu, 22 Oct 2026 23:13:42 -0400</pubDate>
+            <sparkle:version>202610222313</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>AI built in: download the best Gemma 4 model for your Mac (Settings → AI Models) and run every AI feature privately, with nothing to set up</li><li>Record for a project: a Record button on each project page files the meeting there from the start</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.11.0/Confessional-1.11.0.zip" sparkle:edSignature="apqHyIX8Q4YV0tQk/VefpGU1eOUWVvzPGUtrJyREYt8XMD0nlRzHzY8SYgF7Anss7U62iThnYMEYcRZxcV/IBA==" length="18290965" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.10.0</title>
             <pubDate>Thu, 22 Oct 2026 22:31:07 -0400</pubDate>
             <sparkle:version>202610222230</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>First update through the new updater</li><li>Small fix in follow-up email drafting</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.3.1/Confessional-1.3.1.zip" sparkle:edSignature="btuXo0nZLncxscZTXW6cnx+1TNaRtI8AHU6akA2oIYLDVb7AuZyG96lDxnAAGUgWSlQlXCwoKGxTNBmT5q9QCw==" length="4647140" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.3.0</title>
-            <pubDate>Wed, 21 Oct 2026 18:01:48 -0400</pubDate>
-            <sparkle:version>202610211801</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Updates itself: checks daily, installs with one click, never mid-recording</li><li>Today view and Record &amp; Join from your calendar</li><li>Free-form notes per meeting, editable call notes, tags, and faster search</li><li>Ask your meetings, follow-up emails, Reminders, weekly digest</li><li>Optional local AI model, and per-meeting Keep on this Mac</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.3.0/Confessional-1.3.0.zip" sparkle:edSignature="u2Stv29FlpPNTC5sk11dy6A+G5oSrohOdRrE9Y8JPghBhg9uBvmeoe71u9lj2oj9g87TYcxuw0tHtOVZ6YtECA==" length="4647122" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
