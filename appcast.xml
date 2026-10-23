@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.7.0</title>
+            <pubDate>Thu, 22 Oct 2026 21:12:54 -0400</pubDate>
+            <sparkle:version>202610222112</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>A new home page: what&#x27;s next with Record &amp; Join, your week at a glance, recent meetings and projects as tiles</li><li>Clear indicators for computer call vs phone/in person, and cloud AI vs on this Mac (click to switch)</li><li>Chat looks at the screenshots itself when you ask about something that was on screen</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.7.0/Confessional-1.7.0.zip" sparkle:edSignature="+xP1p/+pemURpejusWuBgz0Z3PPxv87+0cmA1BuYS0mbtjE6Fq/m8ZyEp+aLMg708uC5+D5fGEGn4SAIh1RpAg==" length="5651972" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.6.0</title>
             <pubDate>Thu, 22 Oct 2026 20:52:36 -0400</pubDate>
             <sparkle:version>202610222052</sparkle:version>
