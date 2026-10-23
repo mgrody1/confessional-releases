@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.16.1</title>
+            <pubDate>Fri, 23 Oct 2026 17:24:26 -0400</pubDate>
+            <sparkle:version>202610231722</sparkle:version>
+            <sparkle:shortVersionString>1.16.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Screenshots of shared screens: moving video tiles are ignored, so a screenshot is saved whenever the shared screen changes (before, a call with screen sharing could go many minutes without one).</li><li>Transcripts say how each person got their name: by voice, from the call screen, or from the conversation.</li><li>Speaker turns: a short interjection in the middle of someone else&#x27;s sentence keeps its own speaker.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.16.1/Confessional-1.16.1.zip" sparkle:edSignature="OycTiaaE6KeuowyeywKOzRDA5r6EUCvcg9pvhvpdNF95KUyhdzn1b/w5E8WpF19TVg5wkgd++vSvrrFk535UAg==" length="29207568" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.16.0</title>
             <pubDate>Fri, 23 Oct 2026 14:46:39 -0400</pubDate>
             <sparkle:version>202610231446</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Everything in one window: Home, Chat, Projects, Analytics and Highlights in the sidebar; opens on Home and stays there</li><li>Analytics: topics over time worked out on your Mac, what each meeting was about, rising and fading topics, who you meet with</li><li>Unexpected connections between meetings about different things, with AI explanations</li><li>Projects redesigned as cards and a project page with tiles</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.8.0/Confessional-1.8.0.zip" sparkle:edSignature="Y9ojrJMDF+PGTSTDconfZtTGyaPArGNe1VNOixDkbnlGI0MMtMYyAsqCzFelp+S+AWtbtBF2FXNviBvnzznmAg==" length="6115595" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.7.0</title>
-            <pubDate>Thu, 22 Oct 2026 21:12:54 -0400</pubDate>
-            <sparkle:version>202610222112</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>A new home page: what&#x27;s next with Record &amp; Join, your week at a glance, recent meetings and projects as tiles</li><li>Clear indicators for computer call vs phone/in person, and cloud AI vs on this Mac (click to switch)</li><li>Chat looks at the screenshots itself when you ask about something that was on screen</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.7.0/Confessional-1.7.0.zip" sparkle:edSignature="+xP1p/+pemURpejusWuBgz0Z3PPxv87+0cmA1BuYS0mbtjE6Fq/m8ZyEp+aLMg708uC5+D5fGEGn4SAIh1RpAg==" length="5651972" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
