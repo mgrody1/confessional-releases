@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.15.0</title>
+            <pubDate>Fri, 23 Oct 2026 12:43:20 -0400</pubDate>
+            <sparkle:version>202610231242</sparkle:version>
+            <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Dictate into any app: hold ⌃⌥D, talk, let go, and the text is typed where your cursor is (Settings → Dictation), with an optional AI tidy-up</li><li>Watch folders: new recordings in a folder you choose (Zoom&#x27;s, your podcast&#x27;s raw folder) are transcribed, summarised and filed automatically (Settings → Watch Folders)</li><li>Import several recordings at once, or drop them on the Meetings window</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.15.0/Confessional-1.15.0.zip" sparkle:edSignature="janxT3iRzy/JVAoniGvf7/E8NCv+QuInltu9r+OPd2fYGcKEQDr3w3Ht9erW9Tn42wb4OOigcasK6vHX4/EDDQ==" length="19125299" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.14.0</title>
             <pubDate>Fri, 23 Oct 2026 11:44:03 -0400</pubDate>
             <sparkle:version>202610231142</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Projects: meetings grouped automatically, each with a living overview (where things stand, what changed, decisions over time, recurring themes, open items) and its own chat</li><li>Deeper answers: for big-picture questions, chat reads each relevant meeting in full and links to exact moments</li><li>Send to Claude Code: hand action items to Claude Code in your project&#x27;s code folder, with quotes and screenshots</li><li>Screenshots the AI understands: key screenshots are described (what was shown, highlighted or broken) and used in summaries, chat and Claude Code briefs</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.6.0/Confessional-1.6.0.zip" sparkle:edSignature="Te+8avElXJnfoO1wxRAJIBIP+JAB61RsGXjRNKNuawH4W1PdS6WUdeaOlZP2gl2ZNUAsVL1p1/RBRrgkeSnICw==" length="5524907" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.5.1</title>
-            <pubDate>Thu, 22 Oct 2026 20:23:30 -0400</pubDate>
-            <sparkle:version>202610222023</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>The chat box grows as you type and uses its full width (Return sends, Shift-Return for a new line)</li><li>Summaries, transcripts, notes and chat use the whole window; bigger screenshots</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.5.1/Confessional-1.5.1.zip" sparkle:edSignature="czYjXNUE7wR9bYrWo6ec0P9H96b3SI/5XPo3vlv7LiVxTdmgUcOGaDzxhCzHXzOpJBN1QYU8I4eGwSQ4KiHZBg==" length="5216928" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
