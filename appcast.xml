@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.16.0</title>
+            <pubDate>Fri, 23 Oct 2026 14:46:39 -0400</pubDate>
+            <sparkle:version>202610231446</sparkle:version>
+            <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>New speech engine: NVIDIA Parakeet, run on your Mac. About 10% fewer word errors than Whisper on meetings, and an hour of audio in well under a minute. English and 24 other European languages; other languages still use Whisper.</li><li>Names and terms from your vocabulary list are spelled right more often, without replacing ordinary words.</li><li>Voice recognition keeps a wider spread of each person&#x27;s voice (different mics and rooms), so people are recognised more reliably.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.16.0/Confessional-1.16.0.zip" sparkle:edSignature="hxg3YGszylZIuy7J8CW1CVPnw8dU2wzpmMuf4zviSpr4S9skcL3Km/J0+Q1Z9k1MYG9IJoEfs4g6pD8CTg5dCQ==" length="29198912" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.15.0</title>
             <pubDate>Fri, 23 Oct 2026 12:43:20 -0400</pubDate>
             <sparkle:version>202610231242</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>A new home page: what&#x27;s next with Record &amp; Join, your week at a glance, recent meetings and projects as tiles</li><li>Clear indicators for computer call vs phone/in person, and cloud AI vs on this Mac (click to switch)</li><li>Chat looks at the screenshots itself when you ask about something that was on screen</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.7.0/Confessional-1.7.0.zip" sparkle:edSignature="+xP1p/+pemURpejusWuBgz0Z3PPxv87+0cmA1BuYS0mbtjE6Fq/m8ZyEp+aLMg708uC5+D5fGEGn4SAIh1RpAg==" length="5651972" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.6.0</title>
-            <pubDate>Thu, 22 Oct 2026 20:52:36 -0400</pubDate>
-            <sparkle:version>202610222052</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Projects: meetings grouped automatically, each with a living overview (where things stand, what changed, decisions over time, recurring themes, open items) and its own chat</li><li>Deeper answers: for big-picture questions, chat reads each relevant meeting in full and links to exact moments</li><li>Send to Claude Code: hand action items to Claude Code in your project&#x27;s code folder, with quotes and screenshots</li><li>Screenshots the AI understands: key screenshots are described (what was shown, highlighted or broken) and used in summaries, chat and Claude Code briefs</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.6.0/Confessional-1.6.0.zip" sparkle:edSignature="Te+8avElXJnfoO1wxRAJIBIP+JAB61RsGXjRNKNuawH4W1PdS6WUdeaOlZP2gl2ZNUAsVL1p1/RBRrgkeSnICw==" length="5524907" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
