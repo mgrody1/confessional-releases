@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.17.0</title>
+            <pubDate>Fri, 23 Oct 2026 18:31:15 -0400</pubDate>
+            <sparkle:version>202610231829</sparkle:version>
+            <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Better at telling people apart: NVIDIA&#x27;s Nemotron 3 now decides who is speaking. On recorded meetings (AMI), about 30% fewer speaker errors overall and half as many mix-ups between people; quick back-and-forth and similar-sounding voices stay apart. People already known by voice are still recognised. Downloads once (about 190 MB).</li><li>Someone who says only a little in a long meeting now gets their own label instead of being folded into someone else.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.17.0/Confessional-1.17.0.zip" sparkle:edSignature="PyGtIW67gs3k11iPy+rHuVRQFWVMg7N/D8LtMp3MGTSpRHGumtmzWP6vX/CV8xb/YkTVu8iA4hiFB+3mqOnDAg==" length="29243222" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.16.1</title>
             <pubDate>Fri, 23 Oct 2026 17:24:26 -0400</pubDate>
             <sparkle:version>202610231722</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Projects read your documents: add files or folders (PDF, Word, Excel, PowerPoint, text…) or drop them on the new Sources tab</li><li>Projects read your email: matching messages from Apple Mail, by people or subject</li><li>Projects read the code folder: source files, READMEs and git history</li><li>Any source can be kept on this Mac, like meetings</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.9.0/Confessional-1.9.0.zip" sparkle:edSignature="6zrUwVKxxAbr/IlCSQqGSKuubKZuTxhDtMAd9akVpU8sWaLrCVAmgXwqErEB50KVZRfbkSTbk7FrqypdO8gCBQ==" length="6347812" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.8.0</title>
-            <pubDate>Thu, 22 Oct 2026 21:53:15 -0400</pubDate>
-            <sparkle:version>202610222152</sparkle:version>
-            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Everything in one window: Home, Chat, Projects, Analytics and Highlights in the sidebar; opens on Home and stays there</li><li>Analytics: topics over time worked out on your Mac, what each meeting was about, rising and fading topics, who you meet with</li><li>Unexpected connections between meetings about different things, with AI explanations</li><li>Projects redesigned as cards and a project page with tiles</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.8.0/Confessional-1.8.0.zip" sparkle:edSignature="Y9ojrJMDF+PGTSTDconfZtTGyaPArGNe1VNOixDkbnlGI0MMtMYyAsqCzFelp+S+AWtbtBF2FXNviBvnzznmAg==" length="6115595" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
