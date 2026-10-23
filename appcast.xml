@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.10.0</title>
+            <pubDate>Thu, 22 Oct 2026 22:31:07 -0400</pubDate>
+            <sparkle:version>202610222230</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Chat history: every conversation kept, with search, pinning and renaming (⌘N for a new one)</li><li>Edit a question to ask again, regenerate answers, suggested follow-up questions</li><li>Attach files and screenshots to a message; dictate with the microphone</li><li>Turn an answer into an email, a Word document or reminders</li><li>Memory: facts every chat knows (“Remember that…”)</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.10.0/Confessional-1.10.0.zip" sparkle:edSignature="rzEMe1jOuGHgWrhsWssFwVNNjVoi5kkwIzrecW8Qet0YVKnmYlMvUAEn/3m+U4kzd1yw1d/Vo3DE5z9q2QFiBQ==" length="6524895" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.9.0</title>
             <pubDate>Thu, 22 Oct 2026 22:16:53 -0400</pubDate>
             <sparkle:version>202610222216</sparkle:version>
