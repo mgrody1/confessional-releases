@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.9.0</title>
+            <pubDate>Thu, 22 Oct 2026 22:16:53 -0400</pubDate>
+            <sparkle:version>202610222216</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Projects read your documents: add files or folders (PDF, Word, Excel, PowerPoint, text…) or drop them on the new Sources tab</li><li>Projects read your email: matching messages from Apple Mail, by people or subject</li><li>Projects read the code folder: source files, READMEs and git history</li><li>Any source can be kept on this Mac, like meetings</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.9.0/Confessional-1.9.0.zip" sparkle:edSignature="6zrUwVKxxAbr/IlCSQqGSKuubKZuTxhDtMAd9akVpU8sWaLrCVAmgXwqErEB50KVZRfbkSTbk7FrqypdO8gCBQ==" length="6347812" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.8.0</title>
             <pubDate>Thu, 22 Oct 2026 21:53:15 -0400</pubDate>
             <sparkle:version>202610222152</sparkle:version>
