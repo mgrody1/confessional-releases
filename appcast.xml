@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.8.0</title>
+            <pubDate>Thu, 22 Oct 2026 21:53:15 -0400</pubDate>
+            <sparkle:version>202610222152</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Everything in one window: Home, Chat, Projects, Analytics and Highlights in the sidebar; opens on Home and stays there</li><li>Analytics: topics over time worked out on your Mac, what each meeting was about, rising and fading topics, who you meet with</li><li>Unexpected connections between meetings about different things, with AI explanations</li><li>Projects redesigned as cards and a project page with tiles</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.8.0/Confessional-1.8.0.zip" sparkle:edSignature="Y9ojrJMDF+PGTSTDconfZtTGyaPArGNe1VNOixDkbnlGI0MMtMYyAsqCzFelp+S+AWtbtBF2FXNviBvnzznmAg==" length="6115595" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.7.0</title>
             <pubDate>Thu, 22 Oct 2026 21:12:54 -0400</pubDate>
             <sparkle:version>202610222112</sparkle:version>
