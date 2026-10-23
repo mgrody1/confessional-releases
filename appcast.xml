@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.6.0</title>
+            <pubDate>Thu, 22 Oct 2026 20:52:36 -0400</pubDate>
+            <sparkle:version>202610222052</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Projects: meetings grouped automatically, each with a living overview (where things stand, what changed, decisions over time, recurring themes, open items) and its own chat</li><li>Deeper answers: for big-picture questions, chat reads each relevant meeting in full and links to exact moments</li><li>Send to Claude Code: hand action items to Claude Code in your project&#x27;s code folder, with quotes and screenshots</li><li>Screenshots the AI understands: key screenshots are described (what was shown, highlighted or broken) and used in summaries, chat and Claude Code briefs</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.6.0/Confessional-1.6.0.zip" sparkle:edSignature="Te+8avElXJnfoO1wxRAJIBIP+JAB61RsGXjRNKNuawH4W1PdS6WUdeaOlZP2gl2ZNUAsVL1p1/RBRrgkeSnICw==" length="5524907" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.5.1</title>
             <pubDate>Thu, 22 Oct 2026 20:23:30 -0400</pubDate>
             <sparkle:version>202610222023</sparkle:version>
