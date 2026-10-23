@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.13.0</title>
+            <pubDate>Fri, 23 Oct 2026 10:47:44 -0400</pubDate>
+            <sparkle:version>202610231047</sparkle:version>
+            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edit an episode by editing its transcript: cut lines, remove ums, uhs and repeated words, shorten long pauses (Studio → Edit)</li><li>Podcast-ready sound: exports levelled to -16 LUFS with voices evened out and peaks under -1 dB</li><li>Separate tracks: keep your mic and the call (Settings → Recording) and export them as WAV files with the same cuts</li><li>Project Insights: topics over time, action items opened vs. closed, who comes and who talks, what&#x27;s waiting longest</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.13.0/Confessional-1.13.0.zip" sparkle:edSignature="i6ll2Y89S65FhIEwxC23eTQ+gpFj/7dmBAMEM8ItVy71N4x78fvYXrMQENW370gr4YRRN1s9Lb4DlozAs+SaDg==" length="18930341" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.12.0</title>
             <pubDate>Thu, 22 Oct 2026 23:36:26 -0400</pubDate>
             <sparkle:version>202610222335</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Chat with your meetings: a Chat window for all your meetings and a Chat tab in each one, with follow-ups and clickable sources</li><li>Any AI provider: OpenAI, Google Gemini, DeepSeek, Z.ai (GLM), xAI (Grok), Mistral, Groq, OpenRouter, or any OpenAI-compatible service</li><li>Summaries and chat can each use a different model; private meetings still only use your private model</li><li>A redesigned Settings window with a sidebar and search</li><li>Settings → Calendar has a shortcut for adding your Google account (Internet Accounts)</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.5.0/Confessional-1.5.0.zip" sparkle:edSignature="D4erQVhwL0ym0DewV4gNXaKzJg3yigwDmxcf0GVPcjjCqPx1G5CAIkAlCgl2Fg15kkiwDaCpC0h1SrXtwpRFCQ==" length="5209936" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.4.0</title>
-            <pubDate>Thu, 22 Oct 2026 19:15:51 -0400</pubDate>
-            <sparkle:version>202610221915</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Floating call controls that stay on top during a call</li><li>Warnings during the call if the call audio or your mic goes silent</li><li>Google Meet: matched to your calendar by its link, stops when you close the tab, optional Google sign-in for exact names</li><li>Optional: record calendar meetings automatically</li><li>Timeline with talk time, stars, notes and screenshots under each meeting</li><li>Search shows the matching lines; Highlights collects every starred moment</li><li>Right-click to copy a quote, a link to the moment, or save an audio clip</li><li>Keyboard: space, arrows, Cmd-1/2/3</li><li>Storage settings, Send Feedback, a sample meeting, and What&#x27;s new</li><li>If the graphics memory is full (e.g. a big local AI model), transcription falls back to the Neural Engine</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.4.0/Confessional-1.4.0.zip" sparkle:edSignature="aVKHsNS2V0I89k5Nzq8V5IuwVON2Nu3G6z+zUhzFqmlyVpG5J+1ySMIuk6RcfrpaDpmVv5SLZmpF/Fp1yTmoDQ==" length="4976927" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
