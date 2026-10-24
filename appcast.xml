@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.19.0</title>
+            <pubDate>Fri, 23 Oct 2026 22:11:33 -0400</pubDate>
+            <sparkle:version>202610232209</sparkle:version>
+            <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Meetings in Spotlight: search a meeting&#x27;s title, people, project or words from its summary and action items, and open it from there (Settings → Shortcuts &amp; Spotlight).</li><li>Control Confessional from Shortcuts: start/stop recording, star, add a note, ask your meetings, and read back your last meeting&#x27;s summary or open action items. Confessional&#x27;s own Shortcuts actions and Siri phrases come in an update.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.19.0/Confessional-1.19.0.zip" sparkle:edSignature="fk8kgrNQzx8uOtYDtiIYEtzsd/osA3xS9nDnnIjKmq8q2j63RPxlsShuUtcIH6bPBze7FTOfnRP5auzFe1PWBg==" length="29429392" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.18.1</title>
             <pubDate>Fri, 23 Oct 2026 21:46:39 -0400</pubDate>
             <sparkle:version>202610232144</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Studio for podcasters and creators: an episode kit (titles, description, show notes, YouTube chapters, quotes, social posts, keywords), captions (.srt/.vtt) and craft stats</li><li>Clips: AI finds the most shareable moments; export vertical, square or landscape videos with word-by-word captions, or audio</li><li>Prep an episode from your notes and past episodes; import audio or video into a show</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.12.0/Confessional-1.12.0.zip" sparkle:edSignature="aHCkV8KctqtFttFuNSrIn7njYjQbvzAbhV/ZJjyIC1jp5wX2dOi1ctkWKvHEdldujXPiif2n60BdRZtGiqjnDQ==" length="18650574" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.11.0</title>
-            <pubDate>Thu, 22 Oct 2026 23:13:42 -0400</pubDate>
-            <sparkle:version>202610222313</sparkle:version>
-            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>AI built in: download the best Gemma 4 model for your Mac (Settings → AI Models) and run every AI feature privately, with nothing to set up</li><li>Record for a project: a Record button on each project page files the meeting there from the start</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.11.0/Confessional-1.11.0.zip" sparkle:edSignature="apqHyIX8Q4YV0tQk/VefpGU1eOUWVvzPGUtrJyREYt8XMD0nlRzHzY8SYgF7Anss7U62iThnYMEYcRZxcV/IBA==" length="18290965" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
