@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.18.1</title>
+            <pubDate>Fri, 23 Oct 2026 21:46:39 -0400</pubDate>
+            <sparkle:version>202610232144</sparkle:version>
+            <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Tidier live captions: the latest few lines in one block, like TV captions, with the speaker&#x27;s name only where it changes and no empty space.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.18.1/Confessional-1.18.1.zip" sparkle:edSignature="fupby1ionpiKneG6fxncpRn7IUwSCuyoHGjoLyZBYiPhUOuevpOW4wuf05fBfrPth4aisOJ+g4ibIW2TKDGXBQ==" length="29347786" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.18.0</title>
             <pubDate>Fri, 23 Oct 2026 21:21:23 -0400</pubDate>
             <sparkle:version>202610232119</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>AI built in: download the best Gemma 4 model for your Mac (Settings → AI Models) and run every AI feature privately, with nothing to set up</li><li>Record for a project: a Record button on each project page files the meeting there from the start</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.11.0/Confessional-1.11.0.zip" sparkle:edSignature="apqHyIX8Q4YV0tQk/VefpGU1eOUWVvzPGUtrJyREYt8XMD0nlRzHzY8SYgF7Anss7U62iThnYMEYcRZxcV/IBA==" length="18290965" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.10.0</title>
-            <pubDate>Thu, 22 Oct 2026 22:31:07 -0400</pubDate>
-            <sparkle:version>202610222230</sparkle:version>
-            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Chat history: every conversation kept, with search, pinning and renaming (⌘N for a new one)</li><li>Edit a question to ask again, regenerate answers, suggested follow-up questions</li><li>Attach files and screenshots to a message; dictate with the microphone</li><li>Turn an answer into an email, a Word document or reminders</li><li>Memory: facts every chat knows (“Remember that…”)</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.10.0/Confessional-1.10.0.zip" sparkle:edSignature="rzEMe1jOuGHgWrhsWssFwVNNjVoi5kkwIzrecW8Qet0YVKnmYlMvUAEn/3m+U4kzd1yw1d/Vo3DE5z9q2QFiBQ==" length="6524895" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
