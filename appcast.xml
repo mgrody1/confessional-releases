@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.28.0</title>
+            <pubDate>Sun, 25 Oct 2026 00:50:56 -0400</pubDate>
+            <sparkle:version>202610250048</sparkle:version>
+            <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Screenshots when there&#x27;s no call window: the call bar says so and one click captures the video&#x27;s window (YouTube, a player…) or the whole screen</li><li>Live captions start on their own once the speech model has downloaded on a new Mac</li><li>Studio finds laughs in shows with a studio audience</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.28.0/Confessional-1.28.0.zip" sparkle:edSignature="U9JT7WCcFwRCG+Z/i41+Dg+l9Glt1U2pjJ55XQCo/VhdxHjaDIc64O0KMCY/CwRsUQ9J2z1QEHAKvWUVyOrQAA==" length="30499063" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.27.0</title>
             <pubDate>Sun, 25 Oct 2026 00:17:52 -0400</pubDate>
             <sparkle:version>202610250015</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Meetings in Spotlight: search a meeting&#x27;s title, people, project or words from its summary and action items, and open it from there (Settings → Shortcuts &amp; Spotlight).</li><li>Control Confessional from Shortcuts: start/stop recording, star, add a note, ask your meetings, and read back your last meeting&#x27;s summary or open action items. Confessional&#x27;s own Shortcuts actions and Siri phrases come in an update.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.19.0/Confessional-1.19.0.zip" sparkle:edSignature="fk8kgrNQzx8uOtYDtiIYEtzsd/osA3xS9nDnnIjKmq8q2j63RPxlsShuUtcIH6bPBze7FTOfnRP5auzFe1PWBg==" length="29429392" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.18.1</title>
-            <pubDate>Fri, 23 Oct 2026 21:46:39 -0400</pubDate>
-            <sparkle:version>202610232144</sparkle:version>
-            <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Tidier live captions: the latest few lines in one block, like TV captions, with the speaker&#x27;s name only where it changes and no empty space.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.18.1/Confessional-1.18.1.zip" sparkle:edSignature="fupby1ionpiKneG6fxncpRn7IUwSCuyoHGjoLyZBYiPhUOuevpOW4wuf05fBfrPth4aisOJ+g4ibIW2TKDGXBQ==" length="29347786" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
