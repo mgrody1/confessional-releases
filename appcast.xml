@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.31.0</title>
+            <pubDate>Sun, 25 Oct 2026 18:04:00 -0400</pubDate>
+            <sparkle:version>202610251801</sparkle:version>
+            <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Screenshots of the whole screen or a video window are trimmed afterwards to the part that kept changing (the video or shared screen); originals kept, snapped ones untouched, meeting-window captures untouched.</li><li>New projects are offered (&#x27;Start a … project?&#x27;) instead of being created automatically; meetings still go into a project that clearly fits.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.31.0/Confessional-1.31.0.zip" sparkle:edSignature="ZDC+NuuBL3BjIKG/6NnOnfMdXVpzsnUs0aoUalfSgriMLkx5H5eWqYu4plQ4ye0XmS3LZMV+9FcLwiMkyD6FAQ==" length="30719496" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.30.3</title>
             <pubDate>Sun, 25 Oct 2026 17:47:19 -0400</pubDate>
             <sparkle:version>202610251746</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Screenshots follow the conversation: with live captions on, when someone talks about the screen (&quot;as you can see on this slide&quot;), the picture they mean is kept, even a small change like a highlighted cell</li><li>Fewer repeats, more of what changed: the same slide shown again isn&#x27;t kept twice, a new page of a mostly white slide or sheet is no longer missed, and (with the images add-on) pictures of just faces are skipped</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.25.0/Confessional-1.25.0.zip" sparkle:edSignature="u+f4TUeEgRIMGx2DDbtuqCgwkY3awja9LvY0t98GsFSOnv0obwVsbMIsldbyL4vLhII/XbEMwr+b+uu/CjA9AA==" length="30313816" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.24.0</title>
-            <pubDate>Sat, 24 Oct 2026 21:20:15 -0400</pubDate>
-            <sparkle:version>202610242117</sparkle:version>
-            <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>You&#x27;ve talked about this before: related moments in each meeting, in calendar briefs, and live in the call bar.</li><li>Notices when a later meeting settles an action item or open question, and suggests ticking it.</li><li>Smarter screenshots with the images and sounds add-on: search by what&#x27;s on them, repeats and faces set aside, laughs found in Studio.</li><li>Chapters follow topic changes; meetings that clearly belong to a project are filed instantly.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.24.0/Confessional-1.24.0.zip" sparkle:edSignature="sj/djcwX0L3M6bcNSh556id1aE8/n21kgWnxORM2lFJIFGOpUijOEKERhEvLlsG2IKCx5Mns1pF5FKDMpKO1CA==" length="30249201" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
