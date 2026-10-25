@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.29.0</title>
+            <pubDate>Sun, 25 Oct 2026 01:14:41 -0400</pubDate>
+            <sparkle:version>202610250112</sparkle:version>
+            <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Capture lights in the call bar: audio, screenshots and captions, green when working and orange (with the reason) when not</li><li>⌘K command bar: jump to any meeting or project, ask a question, start recording, open any setting</li><li>Chapters above long transcripts; fix a split speaker with “Same person as…” (with Undo)</li><li>Easier to read in dark mode</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.29.0/Confessional-1.29.0.zip" sparkle:edSignature="p/rWwzJGxenjAENDimFOKGEJ0GFmtBeAiLAbvEbHsb0JCSuXPlkwqtu0XA4fR+krQRSWMJdq+QIVyhcQjA+DAw==" length="30587469" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.28.0</title>
             <pubDate>Sun, 25 Oct 2026 00:50:56 -0400</pubDate>
             <sparkle:version>202610250048</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Projects have a People tab: their regulars, people who keep turning up, and unnamed voices that sound like a regular.</li><li>Merge two names for the same person and they&#x27;re one person in every transcript, action item and voice memory (undoable). Rename someone once and it changes everywhere.</li><li>Better at naming a project&#x27;s regulars and invitees; someone who says Benjamin isn&#x27;t taken for Benjamin.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.20.0/Confessional-1.20.0.zip" sparkle:edSignature="NYbn8ruG4BaKBTprvMWIUQJZ3GdRtp75/Os+Fd0x5GQ8ztczOEHFT1tP9I3N9898AOVimHJQZB+7RSzOBs4+Cg==" length="29701809" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.19.0</title>
-            <pubDate>Fri, 23 Oct 2026 22:11:33 -0400</pubDate>
-            <sparkle:version>202610232209</sparkle:version>
-            <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Meetings in Spotlight: search a meeting&#x27;s title, people, project or words from its summary and action items, and open it from there (Settings → Shortcuts &amp; Spotlight).</li><li>Control Confessional from Shortcuts: start/stop recording, star, add a note, ask your meetings, and read back your last meeting&#x27;s summary or open action items. Confessional&#x27;s own Shortcuts actions and Siri phrases come in an update.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.19.0/Confessional-1.19.0.zip" sparkle:edSignature="fk8kgrNQzx8uOtYDtiIYEtzsd/osA3xS9nDnnIjKmq8q2j63RPxlsShuUtcIH6bPBze7FTOfnRP5auzFe1PWBg==" length="29429392" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
