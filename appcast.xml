@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.30.2</title>
+            <pubDate>Sun, 25 Oct 2026 09:57:33 -0400</pubDate>
+            <sparkle:version>202610250957</sparkle:version>
+            <sparkle:shortVersionString>1.30.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>New: Settings → Recording → &#x27;Show the call controls over Screen Sharing&#x27;, for watching this Mac from another one (off by default, so the controls stay out of screen shares on calls).</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.30.2/Confessional-1.30.2.zip" sparkle:edSignature="3ePPUD4UM1Id29oeH/5MM6OFpg7OnligrPEql/Sc7EWqaxzgazS4/bjz79ExBHHIXkqCsex+2UdC6U1IEiAjDg==" length="30698306" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.30.1</title>
             <pubDate>Sun, 25 Oct 2026 09:45:22 -0400</pubDate>
             <sparkle:version>202610250945</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Search by meaning: Ask, chat and the meetings search also find what was meant, not just the words. Runs on your Mac.</li><li>Choose Claude&#x27;s model and thinking level (Settings → AI Models).</li><li>Record on iPhone or Apple Watch: new Voice Memos become meetings (Settings → Watch Folders).</li><li>Share a meeting as a web page, and send summaries to Zapier, Make or n8n with a webhook.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.23.0/Confessional-1.23.0.zip" sparkle:edSignature="jCZJdejAwpHjl1QFgBcikDGtTtAh+YLyZ5T6TPSMcFObLASCb84DQnShJFhga1xZKosh8s1L0xLmbNwrrZJVBQ==" length="30031196" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.22.0</title>
-            <pubDate>Sat, 24 Oct 2026 00:02:38 -0400</pubDate>
-            <sparkle:version>202610240000</sparkle:version>
-            <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Suggest people: on a project&#x27;s People tab, the AI reads the project&#x27;s meetings and suggests who belongs there, and which unnamed speakers are who (one click names them).</li><li>Someone introduced and called by name who answers is now named, even if they also mention someone else with the same name.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.22.0/Confessional-1.22.0.zip" sparkle:edSignature="j1xjxNhWHJIlzi1ZgwQolf5xrHxz1Jv9Ij6d8riExzwMrCfse8klhMa2LSKty9pucgtotvnjMabhBCnXuJu8Cw==" length="29860014" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
