@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.30.1</title>
+            <pubDate>Sun, 25 Oct 2026 09:45:22 -0400</pubDate>
+            <sparkle:version>202610250945</sparkle:version>
+            <sparkle:shortVersionString>1.30.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Live captions in the menu bar menu too, for when the floating call bar is hidden or on another display.</li><li>The call bar comes back on screen if it was left off every display.</li><li>recording.json now notes where the call bar appeared and how many caption lines were made.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.30.1/Confessional-1.30.1.zip" sparkle:edSignature="h6nW03tLZqCJzjAewGIBxnokbBYkdi5zaI7EcU+mg2wYF4H7JdjiKIl8QtlxKxqW8q+h0mcgTVgzkq+U4bgyCQ==" length="30696279" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.30.0</title>
             <pubDate>Sun, 25 Oct 2026 09:09:52 -0400</pubDate>
             <sparkle:version>202610250909</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Suggest people: on a project&#x27;s People tab, the AI reads the project&#x27;s meetings and suggests who belongs there, and which unnamed speakers are who (one click names them).</li><li>Someone introduced and called by name who answers is now named, even if they also mention someone else with the same name.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.22.0/Confessional-1.22.0.zip" sparkle:edSignature="j1xjxNhWHJIlzi1ZgwQolf5xrHxz1Jv9Ij6d8riExzwMrCfse8klhMa2LSKty9pucgtotvnjMabhBCnXuJu8Cw==" length="29860014" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.21.0</title>
-            <pubDate>Fri, 23 Oct 2026 23:23:46 -0400</pubDate>
-            <sparkle:version>202610232321</sparkle:version>
-            <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Your meetings in Obsidian: a note per meeting in your vault, with date, people, project and length as properties, the summary, decisions, action items as tasks, and the transcript folded away. Settings → Obsidian.</li><li>Tick an action item in Obsidian and it&#x27;s ticked in Confessional too, and the other way round. What you write below the line in a note is kept.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.21.0/Confessional-1.21.0.zip" sparkle:edSignature="OpSv3enDrnMoLCBOX1cTGxwAj5kdN3X964viriUeMOrxLF6SrFwLQBtbNdg0FAoWBBX7Ov7lk1tA7fcmPIYwAw==" length="29789063" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
