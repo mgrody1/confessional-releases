@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.30.0</title>
+            <pubDate>Sun, 25 Oct 2026 09:09:52 -0400</pubDate>
+            <sparkle:version>202610250909</sparkle:version>
+            <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>The menu bar menu shows what&#x27;s next today and what&#x27;s still open from your last meeting (tick items off right there); while recording it spells out whether audio, screenshots and captions work.</li><li>Try a test recording at the end of setup or in Settings → Recording: your voice transcribed, a screenshot and a test tone, nothing saved.</li><li>Fixed: the &#x27;Related in other meetings&#x27; and &#x27;Settled in recent meetings?&#x27; panels could fail to load.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.30.0/Confessional-1.30.0.zip" sparkle:edSignature="xoJCuEyoaD6e5z19mb4uW/FNTks9Ha50GoFHLOn2lQsXzTUSBAKHTGeuyFCgRcihr2qkon/Ap3kY+JflrZ7wAg==" length="30685509" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.29.0</title>
             <pubDate>Sun, 25 Oct 2026 01:14:41 -0400</pubDate>
             <sparkle:version>202610250112</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Your meetings in Obsidian: a note per meeting in your vault, with date, people, project and length as properties, the summary, decisions, action items as tasks, and the transcript folded away. Settings → Obsidian.</li><li>Tick an action item in Obsidian and it&#x27;s ticked in Confessional too, and the other way round. What you write below the line in a note is kept.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.21.0/Confessional-1.21.0.zip" sparkle:edSignature="OpSv3enDrnMoLCBOX1cTGxwAj5kdN3X964viriUeMOrxLF6SrFwLQBtbNdg0FAoWBBX7Ov7lk1tA7fcmPIYwAw==" length="29789063" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.20.0</title>
-            <pubDate>Fri, 23 Oct 2026 23:00:34 -0400</pubDate>
-            <sparkle:version>202610232258</sparkle:version>
-            <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Projects have a People tab: their regulars, people who keep turning up, and unnamed voices that sound like a regular.</li><li>Merge two names for the same person and they&#x27;re one person in every transcript, action item and voice memory (undoable). Rename someone once and it changes everywhere.</li><li>Better at naming a project&#x27;s regulars and invitees; someone who says Benjamin isn&#x27;t taken for Benjamin.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.20.0/Confessional-1.20.0.zip" sparkle:edSignature="NYbn8ruG4BaKBTprvMWIUQJZ3GdRtp75/Os+Fd0x5GQ8ztczOEHFT1tP9I3N9898AOVimHJQZB+7RSzOBs4+Cg==" length="29701809" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
