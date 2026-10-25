@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.26.0</title>
+            <pubDate>Sat, 24 Oct 2026 23:18:58 -0400</pubDate>
+            <sparkle:version>202610242317</sparkle:version>
+            <sparkle:shortVersionString>1.26.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Records on Macs without a microphone (Mac Studio, Mac mini): Start Recording now records the call audio and screenshots instead of hanging and crashing; plug in a mic during the call and it&#x27;s added</li><li>Use Hermes, Pi or another agent harness (Settings → AI Models → Agent harness): chats stay one conversation in the agent, which compacts long ones itself, and it can look things up in your meetings with Confessional&#x27;s tools</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.26.0/Confessional-1.26.0.zip" sparkle:edSignature="sMa9Hi5nqqhIgYmWlb2y1xntxrIZtystKenWxQ62jBsUSiNyuRK0X7T+2jsG1sMEhAqrfrF52OqfYnkKQg66Aw==" length="30417423" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.25.0</title>
             <pubDate>Sat, 24 Oct 2026 22:22:25 -0400</pubDate>
             <sparkle:version>202610242222</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Live captions during calls: in the call bar, transcribed on this Mac about a second after someone stops talking, with Scroll back and Catch me up (the last few minutes summed up). Captions button in the call bar; default in Settings → Transcription. Never shown in screen sharing.</li><li>Voices remembered automatically when the name on someone&#x27;s video tile matches the name they&#x27;re called by in the conversation (and they answer to it). Undo the clean-up or rename them and it&#x27;s taken back.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.18.0/Confessional-1.18.0.zip" sparkle:edSignature="DrdOl4oVAENVajpaV3vHvVubsffcjYPcjWJiv1641s5Hj8OW9AvW04UELkNUCFLBTU1tsHJOleZzcLHQj4FsBw==" length="29341485" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.17.0</title>
-            <pubDate>Fri, 23 Oct 2026 18:31:15 -0400</pubDate>
-            <sparkle:version>202610231829</sparkle:version>
-            <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Better at telling people apart: NVIDIA&#x27;s Nemotron 3 now decides who is speaking. On recorded meetings (AMI), about 30% fewer speaker errors overall and half as many mix-ups between people; quick back-and-forth and similar-sounding voices stay apart. People already known by voice are still recognised. Downloads once (about 190 MB).</li><li>Someone who says only a little in a long meeting now gets their own label instead of being folded into someone else.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.17.0/Confessional-1.17.0.zip" sparkle:edSignature="PyGtIW67gs3k11iPy+rHuVRQFWVMg7N/D8LtMp3MGTSpRHGumtmzWP6vX/CV8xb/YkTVu8iA4hiFB+3mqOnDAg==" length="29243222" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
