@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.27.0</title>
+            <pubDate>Sun, 25 Oct 2026 00:17:52 -0400</pubDate>
+            <sparkle:version>202610250015</sparkle:version>
+            <sparkle:shortVersionString>1.27.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Your confessional stays yours: by default only a model on this Mac reads it (Settings → Privacy), and it&#x27;s offered only after real calls</li><li>Home starts with what needs you: your own open action items, ticked off right there</li><li>As simple or as deep as you like: basic settings by default for new users, “Show all settings” for everything, and choose what&#x27;s in the sidebar</li><li>Clearer record bar, Highlights gallery, a topics chart from the first week, and an example in empty chats</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.27.0/Confessional-1.27.0.zip" sparkle:edSignature="i4Rba9pRbkc6Y9mB7A5JJjBUIH0b43QjPGzXHTl3mR9aQjQkKbsQoXC9V6f9pZGiqTr9grnCNrySD5OJiqxNDQ==" length="30487053" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.26.0</title>
             <pubDate>Sat, 24 Oct 2026 23:18:58 -0400</pubDate>
             <sparkle:version>202610242317</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Tidier live captions: the latest few lines in one block, like TV captions, with the speaker&#x27;s name only where it changes and no empty space.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.18.1/Confessional-1.18.1.zip" sparkle:edSignature="fupby1ionpiKneG6fxncpRn7IUwSCuyoHGjoLyZBYiPhUOuevpOW4wuf05fBfrPth4aisOJ+g4ibIW2TKDGXBQ==" length="29347786" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.18.0</title>
-            <pubDate>Fri, 23 Oct 2026 21:21:23 -0400</pubDate>
-            <sparkle:version>202610232119</sparkle:version>
-            <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Live captions during calls: in the call bar, transcribed on this Mac about a second after someone stops talking, with Scroll back and Catch me up (the last few minutes summed up). Captions button in the call bar; default in Settings → Transcription. Never shown in screen sharing.</li><li>Voices remembered automatically when the name on someone&#x27;s video tile matches the name they&#x27;re called by in the conversation (and they answer to it). Undo the clean-up or rename them and it&#x27;s taken back.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.18.0/Confessional-1.18.0.zip" sparkle:edSignature="DrdOl4oVAENVajpaV3vHvVubsffcjYPcjWJiv1641s5Hj8OW9AvW04UELkNUCFLBTU1tsHJOleZzcLHQj4FsBw==" length="29341485" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
