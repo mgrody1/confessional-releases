@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.23.0</title>
+            <pubDate>Sat, 24 Oct 2026 20:10:03 -0400</pubDate>
+            <sparkle:version>202610242007</sparkle:version>
+            <sparkle:shortVersionString>1.23.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Search by meaning: Ask, chat and the meetings search also find what was meant, not just the words. Runs on your Mac.</li><li>Choose Claude&#x27;s model and thinking level (Settings → AI Models).</li><li>Record on iPhone or Apple Watch: new Voice Memos become meetings (Settings → Watch Folders).</li><li>Share a meeting as a web page, and send summaries to Zapier, Make or n8n with a webhook.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.23.0/Confessional-1.23.0.zip" sparkle:edSignature="jCZJdejAwpHjl1QFgBcikDGtTtAh+YLyZ5T6TPSMcFObLASCb84DQnShJFhga1xZKosh8s1L0xLmbNwrrZJVBQ==" length="30031196" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.22.0</title>
             <pubDate>Sat, 24 Oct 2026 00:02:38 -0400</pubDate>
             <sparkle:version>202610240000</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>New speech engine: NVIDIA Parakeet, run on your Mac. About 10% fewer word errors than Whisper on meetings, and an hour of audio in well under a minute. English and 24 other European languages; other languages still use Whisper.</li><li>Names and terms from your vocabulary list are spelled right more often, without replacing ordinary words.</li><li>Voice recognition keeps a wider spread of each person&#x27;s voice (different mics and rooms), so people are recognised more reliably.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.16.0/Confessional-1.16.0.zip" sparkle:edSignature="hxg3YGszylZIuy7J8CW1CVPnw8dU2wzpmMuf4zviSpr4S9skcL3Km/J0+Q1Z9k1MYG9IJoEfs4g6pD8CTg5dCQ==" length="29198912" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.15.0</title>
-            <pubDate>Fri, 23 Oct 2026 12:43:20 -0400</pubDate>
-            <sparkle:version>202610231242</sparkle:version>
-            <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Dictate into any app: hold ⌃⌥D, talk, let go, and the text is typed where your cursor is (Settings → Dictation), with an optional AI tidy-up</li><li>Watch folders: new recordings in a folder you choose (Zoom&#x27;s, your podcast&#x27;s raw folder) are transcribed, summarised and filed automatically (Settings → Watch Folders)</li><li>Import several recordings at once, or drop them on the Meetings window</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.15.0/Confessional-1.15.0.zip" sparkle:edSignature="janxT3iRzy/JVAoniGvf7/E8NCv+QuInltu9r+OPd2fYGcKEQDr3w3Ht9erW9Tn42wb4OOigcasK6vHX4/EDDQ==" length="19125299" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
