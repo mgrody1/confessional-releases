@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.33.0</title>
+            <pubDate>Sun, 25 Oct 2026 21:56:34 -0400</pubDate>
+            <sparkle:version>202610252156</sparkle:version>
+            <sparkle:shortVersionString>1.33.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>New Calendar screen: any month, recorded meetings (click to open) and your calendar&#x27;s events; plan a meeting (on your calendar or just here) and be asked to record it when it starts.</li><li>Confessional offer is a corner card; meeting details on one line when there&#x27;s room; date tiles in Studio.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.33.0/Confessional-1.33.0.zip" sparkle:edSignature="1xhSOCjdv29ZwZdv7CVsfVYO0+wOqym+AIXbjVK6MHcuXm3yAYOnJFkhtmeRHWcW0P+aY9x1NJtABJVjaeujDg==" length="30967462" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.32.0</title>
             <pubDate>Sun, 25 Oct 2026 21:34:01 -0400</pubDate>
             <sparkle:version>202610252131</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Screenshots when there&#x27;s no call window: the call bar says so and one click captures the video&#x27;s window (YouTube, a player…) or the whole screen</li><li>Live captions start on their own once the speech model has downloaded on a new Mac</li><li>Studio finds laughs in shows with a studio audience</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.28.0/Confessional-1.28.0.zip" sparkle:edSignature="U9JT7WCcFwRCG+Z/i41+Dg+l9Glt1U2pjJ55XQCo/VhdxHjaDIc64O0KMCY/CwRsUQ9J2z1QEHAKvWUVyOrQAA==" length="30499063" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.27.0</title>
-            <pubDate>Sun, 25 Oct 2026 00:17:52 -0400</pubDate>
-            <sparkle:version>202610250015</sparkle:version>
-            <sparkle:shortVersionString>1.27.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Your confessional stays yours: by default only a model on this Mac reads it (Settings → Privacy), and it&#x27;s offered only after real calls</li><li>Home starts with what needs you: your own open action items, ticked off right there</li><li>As simple or as deep as you like: basic settings by default for new users, “Show all settings” for everything, and choose what&#x27;s in the sidebar</li><li>Clearer record bar, Highlights gallery, a topics chart from the first week, and an example in empty chats</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.27.0/Confessional-1.27.0.zip" sparkle:edSignature="i4Rba9pRbkc6Y9mB7A5JJjBUIH0b43QjPGzXHTl3mR9aQjQkKbsQoXC9V6f9pZGiqTr9grnCNrySD5OJiqxNDQ==" length="30487053" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
