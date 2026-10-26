@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.35.1</title>
+            <pubDate>Sun, 25 Oct 2026 22:29:48 -0400</pubDate>
+            <sparkle:version>202610252229</sparkle:version>
+            <sparkle:shortVersionString>1.35.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Studio clips caption each speaker&#x27;s name as they start talking (toggle: Name captions).</li><li>The weekly digest opens with &#x27;Previously on…&#x27;.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.35.1/Confessional-1.35.1.zip" sparkle:edSignature="zCnI1jmsU0xXvDEbUwEyDdyhBbaNxKJQYjtGp1kyldxM5cUm5TIJo8+lpZ0I79EVoEBREq0BtApyU/bEa84LAQ==" length="31056647" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.35.0</title>
             <pubDate>Sun, 25 Oct 2026 22:22:31 -0400</pubDate>
             <sparkle:version>202610252220</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Live captions in the menu bar menu too, for when the floating call bar is hidden or on another display.</li><li>The call bar comes back on screen if it was left off every display.</li><li>recording.json now notes where the call bar appeared and how many caption lines were made.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.30.1/Confessional-1.30.1.zip" sparkle:edSignature="h6nW03tLZqCJzjAewGIBxnokbBYkdi5zaI7EcU+mg2wYF4H7JdjiKIl8QtlxKxqW8q+h0mcgTVgzkq+U4bgyCQ==" length="30696279" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.30.0</title>
-            <pubDate>Sun, 25 Oct 2026 09:09:52 -0400</pubDate>
-            <sparkle:version>202610250909</sparkle:version>
-            <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>The menu bar menu shows what&#x27;s next today and what&#x27;s still open from your last meeting (tick items off right there); while recording it spells out whether audio, screenshots and captions work.</li><li>Try a test recording at the end of setup or in Settings → Recording: your voice transcribed, a screenshot and a test tone, nothing saved.</li><li>Fixed: the &#x27;Related in other meetings&#x27; and &#x27;Settled in recent meetings?&#x27; panels could fail to load.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.30.0/Confessional-1.30.0.zip" sparkle:edSignature="xoJCuEyoaD6e5z19mb4uW/FNTks9Ha50GoFHLOn2lQsXzTUSBAKHTGeuyFCgRcihr2qkon/Ap3kY+JflrZ7wAg==" length="30685509" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
