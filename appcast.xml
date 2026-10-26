@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.35.0</title>
+            <pubDate>Sun, 25 Oct 2026 22:22:31 -0400</pubDate>
+            <sparkle:version>202610252220</sparkle:version>
+            <sparkle:shortVersionString>1.35.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Quotes captioned like a reality-show confessional (Highlights, and a Line of the week on Home).</li><li>Briefs open with &#x27;Previously on…&#x27;.</li><li>After a call: &#x27;The booth is open&#x27;.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.35.0/Confessional-1.35.0.zip" sparkle:edSignature="cJWFYbbH66oa3dShBDShSsjGMtwdhVrrMpTt5qcjdVPLw0R2cCUSnIlqD6PlbAUgGB3Mhh1+6hpBzIu5QC4LDg==" length="31047658" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.34.0</title>
             <pubDate>Sun, 25 Oct 2026 22:10:51 -0400</pubDate>
             <sparkle:version>202610252208</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>The menu bar menu shows what&#x27;s next today and what&#x27;s still open from your last meeting (tick items off right there); while recording it spells out whether audio, screenshots and captions work.</li><li>Try a test recording at the end of setup or in Settings → Recording: your voice transcribed, a screenshot and a test tone, nothing saved.</li><li>Fixed: the &#x27;Related in other meetings&#x27; and &#x27;Settled in recent meetings?&#x27; panels could fail to load.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.30.0/Confessional-1.30.0.zip" sparkle:edSignature="xoJCuEyoaD6e5z19mb4uW/FNTks9Ha50GoFHLOn2lQsXzTUSBAKHTGeuyFCgRcihr2qkon/Ap3kY+JflrZ7wAg==" length="30685509" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.29.0</title>
-            <pubDate>Sun, 25 Oct 2026 01:14:41 -0400</pubDate>
-            <sparkle:version>202610250112</sparkle:version>
-            <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Capture lights in the call bar: audio, screenshots and captions, green when working and orange (with the reason) when not</li><li>⌘K command bar: jump to any meeting or project, ask a question, start recording, open any setting</li><li>Chapters above long transcripts; fix a split speaker with “Same person as…” (with Undo)</li><li>Easier to read in dark mode</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.29.0/Confessional-1.29.0.zip" sparkle:edSignature="p/rWwzJGxenjAENDimFOKGEJ0GFmtBeAiLAbvEbHsb0JCSuXPlkwqtu0XA4fR+krQRSWMJdq+QIVyhcQjA+DAw==" length="30587469" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
