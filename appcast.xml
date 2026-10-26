@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.34.0</title>
+            <pubDate>Sun, 25 Oct 2026 22:10:51 -0400</pubDate>
+            <sparkle:version>202610252208</sparkle:version>
+            <sparkle:shortVersionString>1.34.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Every project has its own icon (picked from its name, never repeated; click it on the project page to change).</li><li>Screenshots along a meeting&#x27;s timeline: hover for a bigger one, click to play from there.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.34.0/Confessional-1.34.0.zip" sparkle:edSignature="10FjmzSIXGnkZQ3SyWwmjzWsL2k3f4xPLGf0mCmTXcNb3+FqMPr4yQEpZboy5tdZZTpTSG0D40i3j41OsX+FBw==" length="31022513" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.33.0</title>
             <pubDate>Sun, 25 Oct 2026 21:56:34 -0400</pubDate>
             <sparkle:version>202610252156</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Capture lights in the call bar: audio, screenshots and captions, green when working and orange (with the reason) when not</li><li>⌘K command bar: jump to any meeting or project, ask a question, start recording, open any setting</li><li>Chapters above long transcripts; fix a split speaker with “Same person as…” (with Undo)</li><li>Easier to read in dark mode</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.29.0/Confessional-1.29.0.zip" sparkle:edSignature="p/rWwzJGxenjAENDimFOKGEJ0GFmtBeAiLAbvEbHsb0JCSuXPlkwqtu0XA4fR+krQRSWMJdq+QIVyhcQjA+DAw==" length="30587469" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.28.0</title>
-            <pubDate>Sun, 25 Oct 2026 00:50:56 -0400</pubDate>
-            <sparkle:version>202610250048</sparkle:version>
-            <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Screenshots when there&#x27;s no call window: the call bar says so and one click captures the video&#x27;s window (YouTube, a player…) or the whole screen</li><li>Live captions start on their own once the speech model has downloaded on a new Mac</li><li>Studio finds laughs in shows with a studio audience</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.28.0/Confessional-1.28.0.zip" sparkle:edSignature="U9JT7WCcFwRCG+Z/i41+Dg+l9Glt1U2pjJ55XQCo/VhdxHjaDIc64O0KMCY/CwRsUQ9J2z1QEHAKvWUVyOrQAA==" length="30499063" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
