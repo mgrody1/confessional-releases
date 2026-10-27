@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.41.0</title>
+            <pubDate>Tue, 27 Oct 2026 18:05:07 -0400</pubDate>
+            <sparkle:version>202610271804</sparkle:version>
+            <sparkle:shortVersionString>1.41.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Fixes Confessional quitting when you press Record on some Macs (a mic that changes as the call starts, like AirPods switching to call mode)</li><li>On 8 GB Macs, earlier meetings and imports wait to be transcribed until the call ends</li><li>If Confessional quits unexpectedly, it offers to send the crash report next time</li><li>The calendar fits small screens</li><li>Settings → AI Models → Claude: set up Claude Code in three steps</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.41.0/Confessional-1.41.0.zip" sparkle:edSignature="GD9UTavdoxsanzCXrXI2cldwFELS+Q4L6GmyzyC3vgAkwZEQaOrVrhkQJu1RDh4EBCsr0OQ61xPipHT8ivV1Aw==" length="31471186" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.40.0</title>
             <pubDate>Tue, 27 Oct 2026 16:02:13 -0400</pubDate>
             <sparkle:version>202610271559</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>New Calendar screen: any month, recorded meetings (click to open) and your calendar&#x27;s events; plan a meeting (on your calendar or just here) and be asked to record it when it starts.</li><li>Confessional offer is a corner card; meeting details on one line when there&#x27;s room; date tiles in Studio.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.33.0/Confessional-1.33.0.zip" sparkle:edSignature="1xhSOCjdv29ZwZdv7CVsfVYO0+wOqym+AIXbjVK6MHcuXm3yAYOnJFkhtmeRHWcW0P+aY9x1NJtABJVjaeujDg==" length="30967462" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.32.0</title>
-            <pubDate>Sun, 25 Oct 2026 21:34:01 -0400</pubDate>
-            <sparkle:version>202610252131</sparkle:version>
-            <sparkle:shortVersionString>1.32.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Your notes, filled in: the summary starts with the notes you typed during the call, each completed with what was said.</li><li>A warmer look: paper background, serif titles, reading-width summaries and transcripts, date tiles on meeting cards, owner tags on action items, matching project buttons, card-style chat suggestions.</li><li>Fixes: empty &#x27;Topics over time&#x27; chart in the first weeks; folder-named recordings get readable titles.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.32.0/Confessional-1.32.0.zip" sparkle:edSignature="Pralw/GRDCZRIOehKDuxY3FU7WVBTLIHpUvMHzwpOt6ywBi0EkcmHTWyw22aivqLK818UYaHvfhhNLZ7NUKPBA==" length="30793688" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
