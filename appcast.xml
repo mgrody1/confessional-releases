@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.38.0</title>
+            <pubDate>Tue, 27 Oct 2026 13:41:17 -0400</pubDate>
+            <sparkle:version>202610271340</sparkle:version>
+            <sparkle:shortVersionString>1.38.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>⌃⌥N: a quick note over any app while recording</li><li>Transcribe from a link (YouTube, Vimeo, podcasts and more)</li><li>Call bar: What to say? and What to ask? next to Catch me up</li><li>AGENTS.md in the meetings folder for Claude Code, Codex and Cursor</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.38.0/Confessional-1.38.0.zip" sparkle:edSignature="8CxY+zDCiM47A5+Yry49fvqMkbeK9pj4D3WKqbAl95F99QMbUOb03coQTNMIwKSvR53IxSzU4KCFmVbsf/sBDA==" length="31311429" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.37.0</title>
             <pubDate>Tue, 27 Oct 2026 12:39:56 -0400</pubDate>
             <sparkle:version>202610271237</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Screenshots of the whole screen or a video window are trimmed afterwards to the part that kept changing (the video or shared screen); originals kept, snapped ones untouched, meeting-window captures untouched.</li><li>New projects are offered (&#x27;Start a … project?&#x27;) instead of being created automatically; meetings still go into a project that clearly fits.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.31.0/Confessional-1.31.0.zip" sparkle:edSignature="ZDC+NuuBL3BjIKG/6NnOnfMdXVpzsnUs0aoUalfSgriMLkx5H5eWqYu4plQ4ye0XmS3LZMV+9FcLwiMkyD6FAQ==" length="30719496" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.30.3</title>
-            <pubDate>Sun, 25 Oct 2026 17:47:19 -0400</pubDate>
-            <sparkle:version>202610251746</sparkle:version>
-            <sparkle:shortVersionString>1.30.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>When you watch this Mac over Screen Sharing, the floating call controls (and live captions) now show there automatically; they stay out of screen shares on calls otherwise.</li><li>recording.json notes the Confessional version.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.30.3/Confessional-1.30.3.zip" sparkle:edSignature="YIH73rCEJECng/8Tw+U7L+uO6/F+lUBGWY/YmAUjJ1YBH1s/icqNh1MGwTh5h9HhTPGCQSYhiCxv6YwpDL4NBg==" length="30699754" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
