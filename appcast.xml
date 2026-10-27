@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.36.0</title>
+            <pubDate>Mon, 26 Oct 2026 23:00:44 -0400</pubDate>
+            <sparkle:version>202610262258</sparkle:version>
+            <sparkle:shortVersionString>1.36.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Overviews link each statement to the meeting it came from</li><li>Projects simplified to four tabs: Overview, Meetings, Sources, Chat</li><li>Clearer privacy badges: recorded and transcribed on this Mac, and where the notes are written</li><li>Fewer, better connections in Analytics, each checked by AI</li><li>Setup asks whether you record meetings, podcasts or both</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.36.0/Confessional-1.36.0.zip" sparkle:edSignature="ImIfrnlVv+d0QK5x0dEud4IgVFykFHeNVVDEyD2ioAkvoOgZksVaX/T4LCIRdGHVEtYV/rQPjl/RLymaZ33sAw==" length="31080581" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.35.1</title>
             <pubDate>Sun, 25 Oct 2026 22:29:48 -0400</pubDate>
             <sparkle:version>202610252229</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>New: Settings → Recording → &#x27;Show the call controls over Screen Sharing&#x27;, for watching this Mac from another one (off by default, so the controls stay out of screen shares on calls).</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.30.2/Confessional-1.30.2.zip" sparkle:edSignature="3ePPUD4UM1Id29oeH/5MM6OFpg7OnligrPEql/Sc7EWqaxzgazS4/bjz79ExBHHIXkqCsex+2UdC6U1IEiAjDg==" length="30698306" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.30.1</title>
-            <pubDate>Sun, 25 Oct 2026 09:45:22 -0400</pubDate>
-            <sparkle:version>202610250945</sparkle:version>
-            <sparkle:shortVersionString>1.30.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Live captions in the menu bar menu too, for when the floating call bar is hidden or on another display.</li><li>The call bar comes back on screen if it was left off every display.</li><li>recording.json now notes where the call bar appeared and how many caption lines were made.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.30.1/Confessional-1.30.1.zip" sparkle:edSignature="h6nW03tLZqCJzjAewGIBxnokbBYkdi5zaI7EcU+mg2wYF4H7JdjiKIl8QtlxKxqW8q+h0mcgTVgzkq+U4bgyCQ==" length="30696279" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
