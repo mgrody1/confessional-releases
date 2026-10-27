@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.44.0</title>
+            <pubDate>Tue, 27 Oct 2026 19:42:36 -0400</pubDate>
+            <sparkle:version>202610271939</sparkle:version>
+            <sparkle:shortVersionString>1.44.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Agent mode can open web pages you link in a private built-in browser: read them, see them, click, type and scroll (no sign-ins; only the sites you linked; nothing else on the page loads from elsewhere)</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.44.0/Confessional-1.44.0.zip" sparkle:edSignature="v9D1XH+zmfj3cSyFd6lQ51im7tp6TimG4lhqdf1uCUJ5fiR1ksW3eontzXNYVPRFxXMLX43xe9Er5p0fIlVuCw==" length="31674445" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.43.0</title>
             <pubDate>Tue, 27 Oct 2026 19:18:54 -0400</pubDate>
             <sparkle:version>202610271918</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Studio clips caption each speaker&#x27;s name as they start talking (toggle: Name captions).</li><li>The weekly digest opens with &#x27;Previously on…&#x27;.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.35.1/Confessional-1.35.1.zip" sparkle:edSignature="zCnI1jmsU0xXvDEbUwEyDdyhBbaNxKJQYjtGp1kyldxM5cUm5TIJo8+lpZ0I79EVoEBREq0BtApyU/bEa84LAQ==" length="31056647" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.35.0</title>
-            <pubDate>Sun, 25 Oct 2026 22:22:31 -0400</pubDate>
-            <sparkle:version>202610252220</sparkle:version>
-            <sparkle:shortVersionString>1.35.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Quotes captioned like a reality-show confessional (Highlights, and a Line of the week on Home).</li><li>Briefs open with &#x27;Previously on…&#x27;.</li><li>After a call: &#x27;The booth is open&#x27;.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.35.0/Confessional-1.35.0.zip" sparkle:edSignature="cJWFYbbH66oa3dShBDShSsjGMtwdhVrrMpTt5qcjdVPLw0R2cCUSnIlqD6PlbAUgGB3Mhh1+6hpBzIu5QC4LDg==" length="31047658" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
