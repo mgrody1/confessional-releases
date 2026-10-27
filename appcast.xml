@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.40.0</title>
+            <pubDate>Tue, 27 Oct 2026 16:02:13 -0400</pubDate>
+            <sparkle:version>202610271559</sparkle:version>
+            <sparkle:shortVersionString>1.40.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Agent mode for Claude Code chats: it searches your meetings and the web itself, uses helpers, and keeps one session per conversation</li><li>Claude (and other AI apps) can now read long meetings in full, part by part</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.40.0/Confessional-1.40.0.zip" sparkle:edSignature="98R5buXk9Z9ZkZIHO48ckpTyCOnxbKamBB6oYKXdPJ0HWUlwYP/Q0W8ADW3Uhe56jvmnJnZ4EbPvW1PfSyS5Dw==" length="31428422" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.39.0</title>
             <pubDate>Tue, 27 Oct 2026 15:27:38 -0400</pubDate>
             <sparkle:version>202610271527</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Your notes, filled in: the summary starts with the notes you typed during the call, each completed with what was said.</li><li>A warmer look: paper background, serif titles, reading-width summaries and transcripts, date tiles on meeting cards, owner tags on action items, matching project buttons, card-style chat suggestions.</li><li>Fixes: empty &#x27;Topics over time&#x27; chart in the first weeks; folder-named recordings get readable titles.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.32.0/Confessional-1.32.0.zip" sparkle:edSignature="Pralw/GRDCZRIOehKDuxY3FU7WVBTLIHpUvMHzwpOt6ywBi0EkcmHTWyw22aivqLK818UYaHvfhhNLZ7NUKPBA==" length="30793688" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.31.1</title>
-            <pubDate>Sun, 25 Oct 2026 20:44:35 -0400</pubDate>
-            <sparkle:version>202610252041</sparkle:version>
-            <sparkle:shortVersionString>1.31.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Ask about this meeting: a question box under the summary and transcript.</li><li>Copy button for the summary.</li><li>One click to accept a speaker&#x27;s suggested name.</li><li>Tidier meeting list (time only under Today/Yesterday).</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.31.1/Confessional-1.31.1.zip" sparkle:edSignature="k7GfIta+IH4+TpBnupFUXcnTOEf/gWWn2dV501ke5hSzcp667/RUwjQk0YImMwLUByJHENyyY2BjX/JOGFh1AA==" length="30739216" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
