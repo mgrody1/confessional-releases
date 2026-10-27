@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.43.0</title>
+            <pubDate>Tue, 27 Oct 2026 19:18:54 -0400</pubDate>
+            <sparkle:version>202610271918</sparkle:version>
+            <sparkle:shortVersionString>1.43.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Screenshots from videos: transcribing a video file or a video link now picks slides and screens like a call (link sheet: Screenshots from the video)</li><li>Saving a chat answer as a Word document keeps its web sources (numbered, with addresses) and writes meeting citations out as the meeting and time; Copy and Email do the same</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.43.0/Confessional-1.43.0.zip" sparkle:edSignature="/COoHTcIeLhmI69WD68WjAQcn6gjTlLvFzkCuJlM57l6r2mTwcczinhfl7qjfW3ho8eu3FOPVT+QDvDTaeofBg==" length="31630835" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.42.0</title>
             <pubDate>Tue, 27 Oct 2026 18:49:30 -0400</pubDate>
             <sparkle:version>202610271848</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Quotes captioned like a reality-show confessional (Highlights, and a Line of the week on Home).</li><li>Briefs open with &#x27;Previously on…&#x27;.</li><li>After a call: &#x27;The booth is open&#x27;.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.35.0/Confessional-1.35.0.zip" sparkle:edSignature="cJWFYbbH66oa3dShBDShSsjGMtwdhVrrMpTt5qcjdVPLw0R2cCUSnIlqD6PlbAUgGB3Mhh1+6hpBzIu5QC4LDg==" length="31047658" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.34.0</title>
-            <pubDate>Sun, 25 Oct 2026 22:10:51 -0400</pubDate>
-            <sparkle:version>202610252208</sparkle:version>
-            <sparkle:shortVersionString>1.34.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Every project has its own icon (picked from its name, never repeated; click it on the project page to change).</li><li>Screenshots along a meeting&#x27;s timeline: hover for a bigger one, click to play from there.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.34.0/Confessional-1.34.0.zip" sparkle:edSignature="10FjmzSIXGnkZQ3SyWwmjzWsL2k3f4xPLGf0mCmTXcNb3+FqMPr4yQEpZboy5tdZZTpTSG0D40i3j41OsX+FBw==" length="31022513" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
