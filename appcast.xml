@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.39.0</title>
+            <pubDate>Tue, 27 Oct 2026 15:27:38 -0400</pubDate>
+            <sparkle:version>202610271527</sparkle:version>
+            <sparkle:shortVersionString>1.39.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Mic and call waveforms either side of the stop button</li><li>The assistant beside a meeting (⌘J)</li><li>Coloured initials for each speaker, with talk time</li><li>Answers show what they read; citations are ▶ 12:34 buttons</li><li>Processing steps at a glance, with the kind of notes you can change</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.39.0/Confessional-1.39.0.zip" sparkle:edSignature="4GyN76r1wGhWMMJwXMJfIwr2y3LdIqpvurYkEO/NXyfSMu9/EVKhJD7jX1cV+5EP8PfDin7sSyPA6WtZbs+uBg==" length="31378339" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.38.0</title>
             <pubDate>Tue, 27 Oct 2026 13:41:17 -0400</pubDate>
             <sparkle:version>202610271340</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Ask about this meeting: a question box under the summary and transcript.</li><li>Copy button for the summary.</li><li>One click to accept a speaker&#x27;s suggested name.</li><li>Tidier meeting list (time only under Today/Yesterday).</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.31.1/Confessional-1.31.1.zip" sparkle:edSignature="k7GfIta+IH4+TpBnupFUXcnTOEf/gWWn2dV501ke5hSzcp667/RUwjQk0YImMwLUByJHENyyY2BjX/JOGFh1AA==" length="30739216" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.31.0</title>
-            <pubDate>Sun, 25 Oct 2026 18:04:00 -0400</pubDate>
-            <sparkle:version>202610251801</sparkle:version>
-            <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Screenshots of the whole screen or a video window are trimmed afterwards to the part that kept changing (the video or shared screen); originals kept, snapped ones untouched, meeting-window captures untouched.</li><li>New projects are offered (&#x27;Start a … project?&#x27;) instead of being created automatically; meetings still go into a project that clearly fits.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.31.0/Confessional-1.31.0.zip" sparkle:edSignature="ZDC+NuuBL3BjIKG/6NnOnfMdXVpzsnUs0aoUalfSgriMLkx5H5eWqYu4plQ4ye0XmS3LZMV+9FcLwiMkyD6FAQ==" length="30719496" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
