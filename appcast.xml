@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.50.0</title>
+            <pubDate>Tue, 27 Oct 2026 22:53:57 -0400</pubDate>
+            <sparkle:version>202610272251</sparkle:version>
+            <sparkle:shortVersionString>1.50.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Model and thinking in chat: dropdowns beside the cloud / this Mac switch under every chat, just for chat answers.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.50.0/Confessional-1.50.0.zip" sparkle:edSignature="j+ZiXCZw7cM2vbbhGWw5Uv+3Zt1rVrrsrspbZ5U/sZogHldGJ8y0nkgMhTy1cR4KkZ+rmm298A32zD3EtIhCAg==" length="32083403" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.49.0</title>
             <pubDate>Tue, 27 Oct 2026 22:29:15 -0400</pubDate>
             <sparkle:version>202610272226</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Fixes Confessional quitting when you press Record on some Macs (a mic that changes as the call starts, like AirPods switching to call mode)</li><li>On 8 GB Macs, earlier meetings and imports wait to be transcribed until the call ends</li><li>If Confessional quits unexpectedly, it offers to send the crash report next time</li><li>The calendar fits small screens</li><li>Settings → AI Models → Claude: set up Claude Code in three steps</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.41.0/Confessional-1.41.0.zip" sparkle:edSignature="GD9UTavdoxsanzCXrXI2cldwFELS+Q4L6GmyzyC3vgAkwZEQaOrVrhkQJu1RDh4EBCsr0OQ61xPipHT8ivV1Aw==" length="31471186" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.40.0</title>
-            <pubDate>Tue, 27 Oct 2026 16:02:13 -0400</pubDate>
-            <sparkle:version>202610271559</sparkle:version>
-            <sparkle:shortVersionString>1.40.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Agent mode for Claude Code chats: it searches your meetings and the web itself, uses helpers, and keeps one session per conversation</li><li>Claude (and other AI apps) can now read long meetings in full, part by part</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.40.0/Confessional-1.40.0.zip" sparkle:edSignature="98R5buXk9Z9ZkZIHO48ckpTyCOnxbKamBB6oYKXdPJ0HWUlwYP/Q0W8ADW3Uhe56jvmnJnZ4EbPvW1PfSyS5Dw==" length="31428422" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
