@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.53.0</title>
+            <pubDate>Wed, 28 Oct 2026 19:42:38 -0400</pubDate>
+            <sparkle:version>202610281939</sparkle:version>
+            <sparkle:shortVersionString>1.53.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Screenshots from the right Zoom window: Zoom&#x27;s home window is never picked, Zoom in a browser is recognised, and a better match found mid-call is switched to.</li><li>Live captions come back after pausing when the Mac was busy.</li><li>Easier crash reports (Copy Report to paste into a message) and step-by-step notes to trace crashes; microphone setup better protected.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.53.0/Confessional-1.53.0.zip" sparkle:edSignature="gQPw/LOAlfc7QEzs4pTOdD8R1PvKZ3ECtKDP7FMfy5atOF162PQ7uUtg8gGGLy8xFn1jE9+bE+O+aqBnDzQ0Cg==" length="32128613" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.52.0</title>
             <pubDate>Wed, 28 Oct 2026 11:38:46 -0400</pubDate>
             <sparkle:version>202610281136</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Agent mode can open web pages you link in a private built-in browser: read them, see them, click, type and scroll (no sign-ins; only the sites you linked; nothing else on the page loads from elsewhere)</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.44.0/Confessional-1.44.0.zip" sparkle:edSignature="v9D1XH+zmfj3cSyFd6lQ51im7tp6TimG4lhqdf1uCUJ5fiR1ksW3eontzXNYVPRFxXMLX43xe9Er5p0fIlVuCw==" length="31674445" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.43.0</title>
-            <pubDate>Tue, 27 Oct 2026 19:18:54 -0400</pubDate>
-            <sparkle:version>202610271918</sparkle:version>
-            <sparkle:shortVersionString>1.43.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Screenshots from videos: transcribing a video file or a video link now picks slides and screens like a call (link sheet: Screenshots from the video)</li><li>Saving a chat answer as a Word document keeps its web sources (numbered, with addresses) and writes meeting citations out as the meeting and time; Copy and Email do the same</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.43.0/Confessional-1.43.0.zip" sparkle:edSignature="/COoHTcIeLhmI69WD68WjAQcn6gjTlLvFzkCuJlM57l6r2mTwcczinhfl7qjfW3ho8eu3FOPVT+QDvDTaeofBg==" length="31630835" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
