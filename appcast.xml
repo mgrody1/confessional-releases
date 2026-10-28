@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.45.0</title>
+            <pubDate>Tue, 27 Oct 2026 20:12:51 -0400</pubDate>
+            <sparkle:version>202610272010</sparkle:version>
+            <sparkle:shortVersionString>1.45.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Use your ChatGPT plan (Plus or Pro) for summaries, chat and screenshots, through Codex, with its tools switched off.</li><li>Use in Other Apps: connect your meetings to the Claude app, Claude Code (one click) and Codex.</li><li>Plainer words in Settings: AI Models lists your plans, a model on this Mac, then API keys; “Deep answer” in chat; models on this Mac named Small to Largest.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.45.0/Confessional-1.45.0.zip" sparkle:edSignature="WTg6cHRowUeP4EKXjPd8qXL4MiovUbw9UGJSmZ78LiVZYW2Bn+la45MNIn7f2Ncm4SIgIVDfk59zXzhhO+CNAA==" length="31733537" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.44.0</title>
             <pubDate>Tue, 27 Oct 2026 19:42:36 -0400</pubDate>
             <sparkle:version>202610271939</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Overviews link each statement to the meeting it came from</li><li>Projects simplified to four tabs: Overview, Meetings, Sources, Chat</li><li>Clearer privacy badges: recorded and transcribed on this Mac, and where the notes are written</li><li>Fewer, better connections in Analytics, each checked by AI</li><li>Setup asks whether you record meetings, podcasts or both</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.36.0/Confessional-1.36.0.zip" sparkle:edSignature="ImIfrnlVv+d0QK5x0dEud4IgVFykFHeNVVDEyD2ioAkvoOgZksVaX/T4LCIRdGHVEtYV/rQPjl/RLymaZ33sAw==" length="31080581" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.35.1</title>
-            <pubDate>Sun, 25 Oct 2026 22:29:48 -0400</pubDate>
-            <sparkle:version>202610252229</sparkle:version>
-            <sparkle:shortVersionString>1.35.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Studio clips caption each speaker&#x27;s name as they start talking (toggle: Name captions).</li><li>The weekly digest opens with &#x27;Previously on…&#x27;.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.35.1/Confessional-1.35.1.zip" sparkle:edSignature="zCnI1jmsU0xXvDEbUwEyDdyhBbaNxKJQYjtGp1kyldxM5cUm5TIJo8+lpZ0I79EVoEBREq0BtApyU/bEa84LAQ==" length="31056647" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
