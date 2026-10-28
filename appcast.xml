@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.49.0</title>
+            <pubDate>Tue, 27 Oct 2026 22:29:15 -0400</pubDate>
+            <sparkle:version>202610272226</sparkle:version>
+            <sparkle:shortVersionString>1.49.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Search everything: a new Search screen (⌘⇧F or the bar on Home) finds moments by meaning, screenshots, chats, projects and Studio episodes.</li><li>Ask from a search: a question becomes a chat about the right meeting or project.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.49.0/Confessional-1.49.0.zip" sparkle:edSignature="AugTexQ8r7L9fdy4B96V4nb3ZnWnGzaAZQZSoP4c67SzKP0alBLBGjI+RRro1fyzqQduddUaXWCZBAxSEspxCg==" length="32036967" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.48.0</title>
             <pubDate>Tue, 27 Oct 2026 22:17:02 -0400</pubDate>
             <sparkle:version>202610272214</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Agent mode for Claude Code chats: it searches your meetings and the web itself, uses helpers, and keeps one session per conversation</li><li>Claude (and other AI apps) can now read long meetings in full, part by part</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.40.0/Confessional-1.40.0.zip" sparkle:edSignature="98R5buXk9Z9ZkZIHO48ckpTyCOnxbKamBB6oYKXdPJ0HWUlwYP/Q0W8ADW3Uhe56jvmnJnZ4EbPvW1PfSyS5Dw==" length="31428422" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.39.0</title>
-            <pubDate>Tue, 27 Oct 2026 15:27:38 -0400</pubDate>
-            <sparkle:version>202610271527</sparkle:version>
-            <sparkle:shortVersionString>1.39.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Mic and call waveforms either side of the stop button</li><li>The assistant beside a meeting (⌘J)</li><li>Coloured initials for each speaker, with talk time</li><li>Answers show what they read; citations are ▶ 12:34 buttons</li><li>Processing steps at a glance, with the kind of notes you can change</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.39.0/Confessional-1.39.0.zip" sparkle:edSignature="4GyN76r1wGhWMMJwXMJfIwr2y3LdIqpvurYkEO/NXyfSMu9/EVKhJD7jX1cV+5EP8PfDin7sSyPA6WtZbs+uBg==" length="31378339" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
