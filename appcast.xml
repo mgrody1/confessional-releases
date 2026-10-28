@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.46.0</title>
+            <pubDate>Tue, 27 Oct 2026 20:56:40 -0400</pubDate>
+            <sparkle:version>202610272053</sparkle:version>
+            <sparkle:shortVersionString>1.46.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Resize the assistant: drag the line between a meeting and the assistant (double-click for the usual width).</li><li>Your AI stays where you put it: Confessional no longer switches to Claude by itself when Claude Code appears on your Mac; existing Claude users are unchanged.</li><li>AI on this Mac: its model shows first in Settings, and messages no longer point you to Claude.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.46.0/Confessional-1.46.0.zip" sparkle:edSignature="fLghZErNkjUJEDnGwsUyjOd/KrkrgdUM3HGz5mNyB71ZyWO99ot8JM1PZMIuvwxVaBNJEQ0EprZz+SfAFs4fAw==" length="31761331" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.45.0</title>
             <pubDate>Tue, 27 Oct 2026 20:12:51 -0400</pubDate>
             <sparkle:version>202610272010</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Notes are written in the meeting&#x27;s language</li><li>Stand-ups, 1:1s, client calls, interviews, planning, retros and webinars get their own notes section</li><li>Settings → Files &amp; Storage: see, remove and move downloaded models</li><li>Join two recordings of one meeting</li><li>Background music stays out of call audio; disconnect your calendar in Settings</li><li>Fixed: Analytics connections the AI rejected could come back</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.37.0/Confessional-1.37.0.zip" sparkle:edSignature="MK+5lz+JIucIjmWW/DtUgVNyrmuZOoubpcT/oH+TvfQ42rfyO7VxW2DnwzXNTn6UEqvrDFCG6d8lvd9CMe4JCQ==" length="31231925" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.36.0</title>
-            <pubDate>Mon, 26 Oct 2026 23:00:44 -0400</pubDate>
-            <sparkle:version>202610262258</sparkle:version>
-            <sparkle:shortVersionString>1.36.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Overviews link each statement to the meeting it came from</li><li>Projects simplified to four tabs: Overview, Meetings, Sources, Chat</li><li>Clearer privacy badges: recorded and transcribed on this Mac, and where the notes are written</li><li>Fewer, better connections in Analytics, each checked by AI</li><li>Setup asks whether you record meetings, podcasts or both</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.36.0/Confessional-1.36.0.zip" sparkle:edSignature="ImIfrnlVv+d0QK5x0dEud4IgVFykFHeNVVDEyD2ioAkvoOgZksVaX/T4LCIRdGHVEtYV/rQPjl/RLymaZ33sAw==" length="31080581" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
