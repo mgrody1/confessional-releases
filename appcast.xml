@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.47.0</title>
+            <pubDate>Tue, 27 Oct 2026 21:30:39 -0400</pubDate>
+            <sparkle:version>202610272130</sparkle:version>
+            <sparkle:shortVersionString>1.47.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Deep answers with your tools: turn on “Your tools” beside Deep answer, and Claude can also use your own Claude Code setup (commands, files, skills, plugins, connections), asking you in the chat before each action.</li><li>Meetings stay protected: anything that names your meetings folder, a private meeting or Confessional&#x27;s own data is refused; meetings are read through Confessional&#x27;s tools.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.47.0/Confessional-1.47.0.zip" sparkle:edSignature="qf/E8qmLxN0dQpz4fSBGesgSGzwqPP/rcjQDFGiHeXR4WhIiKI0+7zNTP2iTnExgg3ya8hjFIHZI5Zuby4rtCA==" length="31825824" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.46.0</title>
             <pubDate>Tue, 27 Oct 2026 20:56:40 -0400</pubDate>
             <sparkle:version>202610272053</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>⌃⌥N: a quick note over any app while recording</li><li>Transcribe from a link (YouTube, Vimeo, podcasts and more)</li><li>Call bar: What to say? and What to ask? next to Catch me up</li><li>AGENTS.md in the meetings folder for Claude Code, Codex and Cursor</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.38.0/Confessional-1.38.0.zip" sparkle:edSignature="8CxY+zDCiM47A5+Yry49fvqMkbeK9pj4D3WKqbAl95F99QMbUOb03coQTNMIwKSvR53IxSzU4KCFmVbsf/sBDA==" length="31311429" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.37.0</title>
-            <pubDate>Tue, 27 Oct 2026 12:39:56 -0400</pubDate>
-            <sparkle:version>202610271237</sparkle:version>
-            <sparkle:shortVersionString>1.37.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Notes are written in the meeting&#x27;s language</li><li>Stand-ups, 1:1s, client calls, interviews, planning, retros and webinars get their own notes section</li><li>Settings → Files &amp; Storage: see, remove and move downloaded models</li><li>Join two recordings of one meeting</li><li>Background music stays out of call audio; disconnect your calendar in Settings</li><li>Fixed: Analytics connections the AI rejected could come back</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.37.0/Confessional-1.37.0.zip" sparkle:edSignature="MK+5lz+JIucIjmWW/DtUgVNyrmuZOoubpcT/oH+TvfQ42rfyO7VxW2DnwzXNTn6UEqvrDFCG6d8lvd9CMe4JCQ==" length="31231925" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
