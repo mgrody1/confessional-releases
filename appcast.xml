@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.48.0</title>
+            <pubDate>Tue, 27 Oct 2026 22:17:02 -0400</pubDate>
+            <sparkle:version>202610272214</sparkle:version>
+            <sparkle:shortVersionString>1.48.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Every chat in one list: the Chat screen now lists the chats on meeting and project pages too, with what each is about and a filter.</li><li>Choose what a chat is about: everything, a meeting, a project, a Studio show or an episode, from the top of the chat.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.48.0/Confessional-1.48.0.zip" sparkle:edSignature="nPXNx1qqImbkHz+vQk/Tz02IV1b7RfuRWklBpkNTCVAl00HxNVlsXCckWUD+I24unBEOHUhrlOLmWeX/ZW37Cw==" length="31892250" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.47.0</title>
             <pubDate>Tue, 27 Oct 2026 21:30:39 -0400</pubDate>
             <sparkle:version>202610272130</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Mic and call waveforms either side of the stop button</li><li>The assistant beside a meeting (⌘J)</li><li>Coloured initials for each speaker, with talk time</li><li>Answers show what they read; citations are ▶ 12:34 buttons</li><li>Processing steps at a glance, with the kind of notes you can change</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.39.0/Confessional-1.39.0.zip" sparkle:edSignature="4GyN76r1wGhWMMJwXMJfIwr2y3LdIqpvurYkEO/NXyfSMu9/EVKhJD7jX1cV+5EP8PfDin7sSyPA6WtZbs+uBg==" length="31378339" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.38.0</title>
-            <pubDate>Tue, 27 Oct 2026 13:41:17 -0400</pubDate>
-            <sparkle:version>202610271340</sparkle:version>
-            <sparkle:shortVersionString>1.38.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>⌃⌥N: a quick note over any app while recording</li><li>Transcribe from a link (YouTube, Vimeo, podcasts and more)</li><li>Call bar: What to say? and What to ask? next to Catch me up</li><li>AGENTS.md in the meetings folder for Claude Code, Codex and Cursor</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.38.0/Confessional-1.38.0.zip" sparkle:edSignature="8CxY+zDCiM47A5+Yry49fvqMkbeK9pj4D3WKqbAl95F99QMbUOb03coQTNMIwKSvR53IxSzU4KCFmVbsf/sBDA==" length="31311429" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
