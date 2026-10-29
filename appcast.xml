@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.57.0</title>
+            <pubDate>Thu, 29 Oct 2026 15:48:37 -0400</pubDate>
+            <sparkle:version>202610291548</sparkle:version>
+            <sparkle:shortVersionString>1.57.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Fixed: Confessional quitting the moment a recording started on some Macs (macOS 26.6): the floating call bar and macOS kept resizing each other.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.57.0/Confessional-1.57.0.zip" sparkle:edSignature="v+21LP+u+L2uWy5xWl5G7/+eykvWLE0Y06vllTrnHTHuqn4Jn/KAXJa2zinirMRvwZm5yeQ65EkKk++xYe3sAg==" length="32153395" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.56.0</title>
             <pubDate>Thu, 29 Oct 2026 14:45:36 -0400</pubDate>
             <sparkle:version>202610291442</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Every chat in one list: the Chat screen now lists the chats on meeting and project pages too, with what each is about and a filter.</li><li>Choose what a chat is about: everything, a meeting, a project, a Studio show or an episode, from the top of the chat.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.48.0/Confessional-1.48.0.zip" sparkle:edSignature="nPXNx1qqImbkHz+vQk/Tz02IV1b7RfuRWklBpkNTCVAl00HxNVlsXCckWUD+I24unBEOHUhrlOLmWeX/ZW37Cw==" length="31892250" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.47.0</title>
-            <pubDate>Tue, 27 Oct 2026 21:30:39 -0400</pubDate>
-            <sparkle:version>202610272130</sparkle:version>
-            <sparkle:shortVersionString>1.47.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Deep answers with your tools: turn on “Your tools” beside Deep answer, and Claude can also use your own Claude Code setup (commands, files, skills, plugins, connections), asking you in the chat before each action.</li><li>Meetings stay protected: anything that names your meetings folder, a private meeting or Confessional&#x27;s own data is refused; meetings are read through Confessional&#x27;s tools.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.47.0/Confessional-1.47.0.zip" sparkle:edSignature="qf/E8qmLxN0dQpz4fSBGesgSGzwqPP/rcjQDFGiHeXR4WhIiKI0+7zNTP2iTnExgg3ya8hjFIHZI5Zuby4rtCA==" length="31825824" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
