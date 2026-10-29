@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.56.0</title>
+            <pubDate>Thu, 29 Oct 2026 14:45:36 -0400</pubDate>
+            <sparkle:version>202610291442</sparkle:version>
+            <sparkle:shortVersionString>1.56.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Copy Crash Report, any time: menu bar → More → Copy Crash Report puts a short report of the latest crash on the clipboard to paste into a text or an email.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.56.0/Confessional-1.56.0.zip" sparkle:edSignature="trKjPqr+C6XimepOervsiQqDBxxmhnVJrmHWT5ulJvTUQ9yaO0WK1yJsc/kj/0UVATYcUtHXxMTWY67MipTHAA==" length="32150076" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.55.0</title>
             <pubDate>Wed, 28 Oct 2026 20:24:07 -0400</pubDate>
             <sparkle:version>202610282023</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Deep answers with your tools: turn on “Your tools” beside Deep answer, and Claude can also use your own Claude Code setup (commands, files, skills, plugins, connections), asking you in the chat before each action.</li><li>Meetings stay protected: anything that names your meetings folder, a private meeting or Confessional&#x27;s own data is refused; meetings are read through Confessional&#x27;s tools.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.47.0/Confessional-1.47.0.zip" sparkle:edSignature="qf/E8qmLxN0dQpz4fSBGesgSGzwqPP/rcjQDFGiHeXR4WhIiKI0+7zNTP2iTnExgg3ya8hjFIHZI5Zuby4rtCA==" length="31825824" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.46.0</title>
-            <pubDate>Tue, 27 Oct 2026 20:56:40 -0400</pubDate>
-            <sparkle:version>202610272053</sparkle:version>
-            <sparkle:shortVersionString>1.46.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Resize the assistant: drag the line between a meeting and the assistant (double-click for the usual width).</li><li>Your AI stays where you put it: Confessional no longer switches to Claude by itself when Claude Code appears on your Mac; existing Claude users are unchanged.</li><li>AI on this Mac: its model shows first in Settings, and messages no longer point you to Claude.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.46.0/Confessional-1.46.0.zip" sparkle:edSignature="fLghZErNkjUJEDnGwsUyjOd/KrkrgdUM3HGz5mNyB71ZyWO99ot8JM1PZMIuvwxVaBNJEQ0EprZz+SfAFs4fAw==" length="31761331" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
