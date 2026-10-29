@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.54.0</title>
+            <pubDate>Wed, 28 Oct 2026 20:11:46 -0400</pubDate>
+            <sparkle:version>202610282009</sparkle:version>
+            <sparkle:shortVersionString>1.54.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>The thin assistant, properly: pushed narrow, it switches to icons and wraps its controls at every width that needs it.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.54.0/Confessional-1.54.0.zip" sparkle:edSignature="UrYhwpcLh1wDJhORoN8PciYDAjfEIdumAWiB6lmS+0fxdU6T+wuOb1VsmaGH9zm5OihjascRJudVXn6PnAOUCw==" length="32133222" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.53.0</title>
             <pubDate>Wed, 28 Oct 2026 19:42:38 -0400</pubDate>
             <sparkle:version>202610281939</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Use your ChatGPT plan (Plus or Pro) for summaries, chat and screenshots, through Codex, with its tools switched off.</li><li>Use in Other Apps: connect your meetings to the Claude app, Claude Code (one click) and Codex.</li><li>Plainer words in Settings: AI Models lists your plans, a model on this Mac, then API keys; “Deep answer” in chat; models on this Mac named Small to Largest.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.45.0/Confessional-1.45.0.zip" sparkle:edSignature="WTg6cHRowUeP4EKXjPd8qXL4MiovUbw9UGJSmZ78LiVZYW2Bn+la45MNIn7f2Ncm4SIgIVDfk59zXzhhO+CNAA==" length="31733537" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.44.0</title>
-            <pubDate>Tue, 27 Oct 2026 19:42:36 -0400</pubDate>
-            <sparkle:version>202610271939</sparkle:version>
-            <sparkle:shortVersionString>1.44.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Agent mode can open web pages you link in a private built-in browser: read them, see them, click, type and scroll (no sign-ins; only the sites you linked; nothing else on the page loads from elsewhere)</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.44.0/Confessional-1.44.0.zip" sparkle:edSignature="v9D1XH+zmfj3cSyFd6lQ51im7tp6TimG4lhqdf1uCUJ5fiR1ksW3eontzXNYVPRFxXMLX43xe9Er5p0fIlVuCw==" length="31674445" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
