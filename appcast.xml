@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.55.0</title>
+            <pubDate>Wed, 28 Oct 2026 20:24:07 -0400</pubDate>
+            <sparkle:version>202610282023</sparkle:version>
+            <sparkle:shortVersionString>1.55.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Screenshots check they&#x27;ve got the meeting: an app&#x27;s home screen is dropped and the meeting window found.</li><li>Screenshots while you present: the screen you&#x27;re sharing, until you stop.</li><li>Teams&#x27; and Webex&#x27;s main windows are never mistaken for the meeting; popped-out shared screens are preferred.</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.55.0/Confessional-1.55.0.zip" sparkle:edSignature="R39sbJZDcwCJtzRzOJTGTfQFxEFqZwWHjWsyQoq94WBX4m+yYpqXGzpa/YSnUNuC3+GXGbItQoHoDJ4w1nuhBg==" length="32143319" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.54.0</title>
             <pubDate>Wed, 28 Oct 2026 20:11:46 -0400</pubDate>
             <sparkle:version>202610282009</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Resize the assistant: drag the line between a meeting and the assistant (double-click for the usual width).</li><li>Your AI stays where you put it: Confessional no longer switches to Claude by itself when Claude Code appears on your Mac; existing Claude users are unchanged.</li><li>AI on this Mac: its model shows first in Settings, and messages no longer point you to Claude.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.46.0/Confessional-1.46.0.zip" sparkle:edSignature="fLghZErNkjUJEDnGwsUyjOd/KrkrgdUM3HGz5mNyB71ZyWO99ot8JM1PZMIuvwxVaBNJEQ0EprZz+SfAFs4fAw==" length="31761331" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.45.0</title>
-            <pubDate>Tue, 27 Oct 2026 20:12:51 -0400</pubDate>
-            <sparkle:version>202610272010</sparkle:version>
-            <sparkle:shortVersionString>1.45.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Use your ChatGPT plan (Plus or Pro) for summaries, chat and screenshots, through Codex, with its tools switched off.</li><li>Use in Other Apps: connect your meetings to the Claude app, Claude Code (one click) and Codex.</li><li>Plainer words in Settings: AI Models lists your plans, a model on this Mac, then API keys; “Deep answer” in chat; models on this Mac named Small to Largest.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.45.0/Confessional-1.45.0.zip" sparkle:edSignature="WTg6cHRowUeP4EKXjPd8qXL4MiovUbw9UGJSmZ78LiVZYW2Bn+la45MNIn7f2Ncm4SIgIVDfk59zXzhhO+CNAA==" length="31733537" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
