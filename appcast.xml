@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.58.0</title>
+            <pubDate>Tue, 03 Nov 2026 17:53:01 -0500</pubDate>
+            <sparkle:version>202611031752</sparkle:version>
+            <sparkle:shortVersionString>1.58.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Fixed: the floating call bar could show up as an empty grey strip with its buttons cut off</li><li>Live captions keep going on a busy Mac: finished lines only, instead of pausing</li><li>One-on-ones: the other person&#x27;s name is used straight away when it matches the invite</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.58.0/Confessional-1.58.0.zip" sparkle:edSignature="tXgvIMp63t0t8dGv27eIEIyC5rGudSdtdOd724A6r27pK/ufmM3oSj/xULw9T04KKRH/Nr5u/RsLQAjTsyXcAg==" length="32163361" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.57.0</title>
             <pubDate>Thu, 29 Oct 2026 15:48:37 -0400</pubDate>
             <sparkle:version>202610291548</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Search everything: a new Search screen (⌘⇧F or the bar on Home) finds moments by meaning, screenshots, chats, projects and Studio episodes.</li><li>Ask from a search: a question becomes a chat about the right meeting or project.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.49.0/Confessional-1.49.0.zip" sparkle:edSignature="AugTexQ8r7L9fdy4B96V4nb3ZnWnGzaAZQZSoP4c67SzKP0alBLBGjI+RRro1fyzqQduddUaXWCZBAxSEspxCg==" length="32036967" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.48.0</title>
-            <pubDate>Tue, 27 Oct 2026 22:17:02 -0400</pubDate>
-            <sparkle:version>202610272214</sparkle:version>
-            <sparkle:shortVersionString>1.48.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Every chat in one list: the Chat screen now lists the chats on meeting and project pages too, with what each is about and a filter.</li><li>Choose what a chat is about: everything, a meeting, a project, a Studio show or an episode, from the top of the chat.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.48.0/Confessional-1.48.0.zip" sparkle:edSignature="nPXNx1qqImbkHz+vQk/Tz02IV1b7RfuRWklBpkNTCVAl00HxNVlsXCckWUD+I24unBEOHUhrlOLmWeX/ZW37Cw==" length="31892250" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
