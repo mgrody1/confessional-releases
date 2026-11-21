@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.59.0</title>
+            <pubDate>Fri, 20 Nov 2026 19:36:36 -0500</pubDate>
+            <sparkle:version>202611201933</sparkle:version>
+            <sparkle:shortVersionString>1.59.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>A more capable model on this Mac: Inkling 2 Mini, in Settings → AI Models (32 GB of memory or more)</li><li>Newer AI runtime (llama.cpp) for the built-in model and smart search</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.59.0/Confessional-1.59.0.zip" sparkle:edSignature="XHoclIEAuMVGzM5jbq0/H8CsssoYFxDyi1lkV+5Mq/GLD4NE4vkIq1XSszClsQHMpFtEpfWnvIOU/mGkphMBAw==" length="32578417" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.58.0</title>
             <pubDate>Tue, 03 Nov 2026 17:53:01 -0500</pubDate>
             <sparkle:version>202611031752</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>Model and thinking in chat: dropdowns beside the cloud / this Mac switch under every chat, just for chat answers.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.50.0/Confessional-1.50.0.zip" sparkle:edSignature="j+ZiXCZw7cM2vbbhGWw5Uv+3Zt1rVrrsrspbZ5U/sZogHldGJ8y0nkgMhTy1cR4KkZ+rmm298A32zD3EtIhCAg==" length="32083403" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.49.0</title>
-            <pubDate>Tue, 27 Oct 2026 22:29:15 -0400</pubDate>
-            <sparkle:version>202610272226</sparkle:version>
-            <sparkle:shortVersionString>1.49.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Search everything: a new Search screen (⌘⇧F or the bar on Home) finds moments by meaning, screenshots, chats, projects and Studio episodes.</li><li>Ask from a search: a question becomes a chat about the right meeting or project.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.49.0/Confessional-1.49.0.zip" sparkle:edSignature="AugTexQ8r7L9fdy4B96V4nb3ZnWnGzaAZQZSoP4c67SzKP0alBLBGjI+RRro1fyzqQduddUaXWCZBAxSEspxCg==" length="32036967" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
