@@ -4,6 +4,15 @@
         <title>Confessional</title>
         <language>en</language>
         <item>
+            <title>Confessional 1.60.0</title>
+            <pubDate>Fri, 20 Nov 2026 20:34:57 -0500</pubDate>
+            <sparkle:version>202611202032</sparkle:version>
+            <sparkle:shortVersionString>1.60.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Long meetings: the built-in model no longer starts its summary over when it runs out of room</li><li>Fewer false names taken from headings and buttons on screen</li></ul>]]></description>
+            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.60.0/Confessional-1.60.0.zip" sparkle:edSignature="w3VPHRvn77Isf0JKRUA3JCv1AmdpLwMyHH32rztCXCEUc45ZmpDqLs93uCZNSbMft9p2gW9N2MV3soxd5CKZAg==" length="32583450" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Confessional 1.59.0</title>
             <pubDate>Fri, 20 Nov 2026 19:36:36 -0500</pubDate>
             <sparkle:version>202611201933</sparkle:version>
@@ -83,15 +92,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul><li>A tidier thin assistant: dragged narrow, its buttons become icons and the model controls wrap, instead of running off the edges.</li></ul>]]></description>
             <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.51.0/Confessional-1.51.0.zip" sparkle:edSignature="Rs4aZhOBkKwLGZwFfow1Z72laDilOu70OHY8IY+ve+0C4P+ug74naJHKqMfQuWSv51lZOdnCa1H7XodyPOKkCw==" length="32101510" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Confessional 1.50.0</title>
-            <pubDate>Tue, 27 Oct 2026 22:53:57 -0400</pubDate>
-            <sparkle:version>202610272251</sparkle:version>
-            <sparkle:shortVersionString>1.50.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>Model and thinking in chat: dropdowns beside the cloud / this Mac switch under every chat, just for chat answers.</li></ul>]]></description>
-            <enclosure url="https://github.com/mgrody1/confessional-releases/releases/download/v1.50.0/Confessional-1.50.0.zip" sparkle:edSignature="j+ZiXCZw7cM2vbbhGWw5Uv+3Zt1rVrrsrspbZ5U/sZogHldGJ8y0nkgMhTy1cR4KkZ+rmm298A32zD3EtIhCAg==" length="32083403" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
